@@ -14,7 +14,7 @@ export function UpdateDb() {
 
   const getDB = api.courses.getAllClasses.useQuery()
 
-  console.log(getDB)
+  console.log(getDB.data)
 
   return (
     <div>
