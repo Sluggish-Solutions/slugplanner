@@ -8,7 +8,6 @@ import { api } from "~/trpc/react";
 export function CreatePost() {
   const router = useRouter();
   const [name, setName] = useState("");
-
   const createPost = api.post.create.useMutation({
     onSuccess: () => {
       router.refresh();

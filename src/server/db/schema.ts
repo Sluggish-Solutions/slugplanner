@@ -5,7 +5,9 @@ import { randomUUID } from "crypto";
 import { sql } from "drizzle-orm";
 import {
   bigint,
+  boolean,
   index,
+  int,
   mysqlTableCreator,
   text,
   timestamp,
@@ -38,7 +40,7 @@ export const posts = createTable(
 export const courses = createTable(
   "courses",
   {
-    id: varchar('id', { length: 128 }).$defaultFn(() => randomUUID()),
+    id: varchar('id', { length: 128 }).$defaultFn(() => randomUUID()).primaryKey(),
     createdAt: timestamp("created_at")
       .default(sql`CURRENT_TIMESTAMP`)
       .notNull(),
@@ -47,6 +49,14 @@ export const courses = createTable(
     dept_num: varchar("dept_num", { length: 20 }),
     title: varchar("title", {length: 256}),
     description: text("description"),
-
-  }
+    erlw: boolean("erlw").notNull().default(true),
+    lower_cred_limit: int("lower_cred_limit").notNull().default(0),
+    upper_cred_limit: int("upper_cred_limit").notNull().default(500),
+    prereq_text: text("prereq_test"),
+    class_notes: text("class_notes"),
+    career: varchar("career", {length: 50}),
+    gen_ed_code: varchar("gen_ed_code", {length: 50}),
+    type: varchar("type", {length: 100}),
+    order: int("order")
+  },
 );
