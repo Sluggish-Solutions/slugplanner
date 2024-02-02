@@ -5,6 +5,36 @@ import { courses, posts } from "~/server/db/schema";
 import type { Course } from "~/server/db";
 import * as fs from 'fs';
 import * as path from 'path';
+type FileNameParts = {
+  prefix: string;
+  numericPart?: string;
+};
+
+function customSort(a: string, b: string): number {
+  const pattern = /^([^\d]+)(\d+)?/; // Match the non-numeric and numeric parts in the string
+  const matchA = a.match(pattern);
+  const matchB = b.match(pattern);
+
+  function extractFileNameParts(match: RegExpMatchArray | null): FileNameParts {
+    return {
+      prefix: match ? match[1] : '',
+      numericPart: match ? match[2] : undefined,
+    };
+  }
+
+  const partsA = extractFileNameParts(matchA);
+  const partsB = extractFileNameParts(matchB);
+
+  const prefixComparison = partsA.prefix.localeCompare(partsB.prefix); // Compare prefixes
+  if (prefixComparison !== 0) {
+    return prefixComparison;
+  }
+
+  const numA = partsA.numericPart ? parseInt(partsA.numericPart) : 0; // Convert numeric part to number
+  const numB = partsB.numericPart ? parseInt(partsB.numericPart) : 0;
+
+  return numA - numB;
+}
 
 export const coursesRouter = createTRPCRouter({
   insert_all_data_lmao: publicProcedure
@@ -12,12 +42,17 @@ export const coursesRouter = createTRPCRouter({
       const directoryPath = '/home/suri312006/coding/slugplanner/src/server/db/courses/';
       // Read the contents of the directory
       const files = fs.readdirSync(directoryPath);
-      
-    console.log(files)
+
+      // Sort the file names using the custom sorting function
+      const sortedFileNames = files.sort(customSort);
+
+      // Log the sorted file names
+      console.log("dumb", sortedFileNames);
+      console.log(files)
 
       // Iterate through each file
       let num = 0;
-      for (const file of files) {
+      for (const file of sortedFileNames) {
         const filePath = path.join(directoryPath, file);
         // Check if it's a file (not a directory)
         // Do something with the file, for example, log its name
@@ -38,35 +73,8 @@ export const coursesRouter = createTRPCRouter({
 
         })
         num += 1;
-        // fs.readFile(filePath, 'utf8', (err, data) => {
-        //   if (err) {
-        //     console.error('Error reading the file:', err);
-        //     return;
-        //   }
-        //   let courseData: Course;
-        //
-        //   // Parse the content as JSON
-        //   const jsonData = JSON.parse(data) as Course;
-        //   allCourses.push(jsonData);
-        //   console.log(jsonData);
-        //   // await ctx.db.insert(courses).values({
-        //   // Now, you can work with the parsed JSON object
-        // });
       }
     })
 });
 
 
-//  files.forEach( async (file) => {
-//   // Get the full path of the file
-// });
-// for (const course of allCourses) {
-//   console.log(course)
-// }
-
-
-
-
-// } catch (error) {
-//   console.error('Error reading directory:', error);
-// }
