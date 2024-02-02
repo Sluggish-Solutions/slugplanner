@@ -5,12 +5,16 @@ import { useState } from "react";
 import { api } from "~/trpc/react";
 export function UpdateDb() {
   const router = useRouter() ;
-  const updateDB = api.courses.insert_all_data_lmao.useMutation({
-    onSuccess: ()=>{
-      //console.log(updateDB.data?.toString())
-      router.refresh();
-    }
-  })
+  // const updateDB = api.courses.insert_all_data_lmao.useMutation({
+  //   onSuccess: ()=>{
+  //     //console.log(updateDB.data?.toString())
+  //     router.refresh();
+  //   }
+  // })
+
+  const getDB = api.courses.getAllClasses.useQuery()
+
+  console.log(getDB)
 
   return (
     <div>
