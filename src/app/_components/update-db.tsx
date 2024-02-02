@@ -17,7 +17,8 @@ export function UpdateDb() {
       <form
         onSubmit={async (e) => {
           e.preventDefault();
-          updateDB.mutate()
+          // super dangerous lmao
+          //updateDB.mutate()
         }}
         className="flex flex-col gap-2"
       >
