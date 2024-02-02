@@ -1,0 +1,32 @@
+{
+    "dept_num": "HIS 101D",
+    "title": "World History of Science",
+    "description": "Human curiosity and inquiry changed and varied widely across Eurasia. This course surveys how the curiosity and inquiry were framed in three major civilizations (China, Islam and Judeo-Christian) from the Mongol conquest of Eurasia in the 13th century to the beginning of industrial capitalism in the 19th century.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": []
+    },
+    "class_notes": "All students - if you would like to request an exception to the restriction, email your request to the department -histdept@ucsc.edufor approval to enroll.",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 35,
+            "filled seats": 27,
+            "priority": "moderate"
+        }
+    }
+}

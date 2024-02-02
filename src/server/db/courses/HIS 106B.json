@@ -1,0 +1,32 @@
+{
+    "dept_num": "HIS 106B",
+    "title": "Asian and Asian American History, 1941-Present",
+    "description": "Analyzes immigration, race relations, war, gender ideology, family life, acculturation, political activism, interracial marriage, multiracial identity, and cultural representations between 1941 and the present. Emphasis on discussion, writing, research, and group presentations.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 31,
+            "filled seats": 24,
+            "priority": "moderate"
+        }
+    }
+}

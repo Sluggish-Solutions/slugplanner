@@ -1,0 +1,32 @@
+{
+    "dept_num": "MUSC 77",
+    "title": "Raga Jazz: Application of Indian Music to Western Instruments",
+    "description": "North India has some of the most melodic, and rhythmically complex musical forms in the world. Jazz, rock, pop and classical musicians are increasingly studying Indian music to give themselves an edge in today's musical landscape. The purpose of this class is to provide all musicians with a theoretical and practical performance approach using the knowledge of the North Indian music system. The goal is to enhance the melodic and rhythmic sensibilities and to open new doors to boost creativity and give a unique slant to composing and playing music.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 21,
+            "filled seats": 8,
+            "priority": "very low"
+        }
+    }
+}

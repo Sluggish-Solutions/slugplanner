@@ -1,0 +1,32 @@
+{
+    "dept_num": "ART 161J",
+    "title": "Mokuhanga: UCSC Printmaking in Japan",
+    "description": "Course taught both at UCSC and at the host university in Tokyo. At UCSC, oil-based woodblock printmaking covers techniques, application of tools, materials, history, issues and concepts. In Japan, the class studies Mokuhanga, resulting in a great understanding and appreciation of this traditional process. Via class activities, field trips, excursions, and cultural visits, students encounter diverse multi-regional art practices, thus broadening perspectives and increasing understanding not only of print media but of contemporary visual culture. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Global Seminar, applications are now closed. To inquire about any late application deadlines, emailgloballearning@ucsc.edu",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "6",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 13,
+            "priority": "unavailible"
+        }
+    }
+}

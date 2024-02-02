@@ -1,0 +1,32 @@
+{
+    "dept_num": "HAVC 118",
+    "title": "Art of the Contemporary African Diaspora",
+    "description": "Considers contemporary art by African artists operating in metropolitan centers, as well as Afro-British, Afro-Caribbean, and African-American production. Topics are organized thematically and address constructing and deconstructing the idea of Africa; cultural authenticity; diaspora; Creolite and creolization; hybridity; cosmopolitanism; post-black; and globalism in the arts.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Background in history of art and visual culture recommended. Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": []
+    },
+    "class_notes": "All students can enroll - restrictions waived in summer.",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 90,
+            "filled seats": 86,
+            "priority": "high"
+        }
+    }
+}

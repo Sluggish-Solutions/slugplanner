@@ -1,0 +1,32 @@
+{
+    "dept_num": "PHYS 80U",
+    "title": "Physics and Psychophysics of Music",
+    "description": "Fundamental theory of vibration, sound waves, sound propagation, diffraction, and interference. Free, coupled, and driven oscillations. Resonance phenomena and modes of oscillation. Fourier's theorem. Anatomy and psychophysics of the ear. Musical scales and intervals. Nature of plucked and bowed strings; guitar, violin, piano. Woodwind and brass instruments. Architectural acoustics. High school algebra and basic knowledge of musical notation recommended.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Also offered as MUSC 80U.",
+    "career": "Undergraduate",
+    "gen_ed_code": "MF",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 30,
+            "filled seats": 14,
+            "priority": "very low"
+        }
+    }
+}

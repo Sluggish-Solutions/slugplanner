@@ -1,0 +1,34 @@
+{
+    "dept_num": "WRIT 2GS",
+    "title": "WRIT 2GS Rhetoric & Inquiry, Global Seminar",
+    "description": "Provides declarative knowledge about writing, with a special focus on writing from research, composing in multiple genres, and transferring knowledge about writing to new contexts. Taught as a Global Seminar in Ireland.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 45,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): College 1 and satisfaction of the Entry Level Writing; or College 80A, 80D, or 80F and satisfaction of the C1 requirement. Enrollment is restricted to frosh, sophomore and junior students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Global Seminar, applications are now closed. To inquire about any late application deadlines, emailgloballearning@ucsc.edu.",
+    "career": "Undergraduate",
+    "gen_ed_code": "C",
+    "type": "Seminar",
+    "credits": "6",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 25,
+            "priority": "unavailible"
+        }
+    }
+}

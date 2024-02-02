@@ -1,0 +1,66 @@
+{
+    "dept_num": "WRIT 1",
+    "title": "Introduction to Composition",
+    "description": "Provides declarative knowledge and procedural knowledge about writing, with a special focus on genre, rhetorical situation, revision, editing, and making connections between texts and one's own perspective.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): College 1 and WRIT 26;  or College 1 and AWPE score of 2-6 or AWPE for Multilingual Students (AWPE-MLS) score of 6; or College 1 and course selection via Directed Self-Placement.",
+        "courses": [
+            [
+                [
+                    "C 1",
+                    "WRIT 26"
+                ],
+                [
+                    "C 1",
+                    "AWPE   26"
+                ],
+                "AWPE  M S AWPEMLS   6",
+                [
+                    "C 1",
+                    "D SP"
+                ]
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "summer",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 16,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 317,
+            "priority": "unavailible"
+        },
+        "summer": {
+            "total_seats": 40,
+            "filled seats": 31,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 1643,
+            "priority": "unavailible"
+        }
+    }
+}

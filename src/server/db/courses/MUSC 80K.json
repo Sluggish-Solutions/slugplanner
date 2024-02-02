@@ -1,0 +1,32 @@
+{
+    "dept_num": "MUSC 80K",
+    "title": "Sound in Art, Science, and the Environment",
+    "description": "Study the role of sound in artistic creation and scientific research related to the environment. Topics include: environmental sound monitoring, increasing environmental awareness, social activism, discovery of sound phenomena, knowledge of audio tools and techniques, sound and environmental problem-solving.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

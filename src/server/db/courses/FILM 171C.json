@@ -1,0 +1,38 @@
+{
+    "dept_num": "FILM 171C",
+    "title": "Special Topics Workshop: Found Footage",
+    "description": "Students consider the practice of transforming or recycling found images and other visual materials to create new meanings. In addition to assigned readings, screenings, and technical workshops, students produce creative found moving image projects and writing responding to course materials. Prerequisite(s): FILM 20A; priority given to students with digital editing experience. Enrollment is by instructor permission and application; application materials available during the last three weeks of preceding quarter.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Enrollment is by application and instructor permission only. Use this link if you are interested in enrolling: https://forms.gle/G51LhxoWc5c4hMcD9",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 20,
+            "filled seats": 22,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 18,
+            "priority": "unavailible"
+        }
+    }
+}

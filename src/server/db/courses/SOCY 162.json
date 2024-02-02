@@ -1,0 +1,34 @@
+{
+    "dept_num": "SOCY 162",
+    "title": "Sociology of Organizations",
+    "description": "Introduces students to a range of sociological approaches to the study of organizations. Covers the origins of organizations and informal organization. Also introduces a number of theoretical approaches to organizational studies. The course is relevant for organizational analyses applied in the public, private, and nonprofit sectors. In addition to reading foundational texts and theory, students also apply key concepts in the course to assignments with real-world applications.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "sociology, Latin American and Latino studies/sociology, and global information and social enterprise studies majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15 or by permission of the instructor. Enrollment is restricted to sociology, Latin American and Latino studies/sociology, and global information and social enterprise studies majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "All students - prerequisite review is waived in summer - emailsummer@ucsc.edufor a permission number to enroll.From the Instructor: This class is an ideal introduction to organizations with an emphasis on career planning (e.g., how to plan an internship/job search) for students at any stage (not limited to sociology majors). The class also discusses how to tackle academic articles. There are no required books or course readers: all readings are free to students via our library as electronic resources.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

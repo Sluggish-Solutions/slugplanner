@@ -1,0 +1,32 @@
+{
+    "dept_num": "HISC 80U",
+    "title": "Labor and Globalization",
+    "description": "Taking a long view of globalization from the 19th century to the present, course offers a historical survey of how strained trade routes, production networks, and supply came to be, by focusing on the workers, labor processes, and labor regimes that produce and reproduce this gargantuan ''factory without walls.'' Explores what concepts should be used to define globalization, must capitalism be global, and how many ''globalizations'' have there been since the 19th century, and what distinguishes them? What forces have caused and maintained inequalities in labor forces across the globe? How does global production isolate, divide, and separate workers from one another? How does it bring them together?",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 30,
+            "filled seats": 26,
+            "priority": "high"
+        }
+    }
+}

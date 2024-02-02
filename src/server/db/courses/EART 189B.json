@@ -1,0 +1,32 @@
+{
+    "dept_num": "EART 189B",
+    "title": "Summer Field Study",
+    "description": "Students spend three weeks in this field course on advanced geologic mapping acquiring and analyzing original data and then another 11 days refining their interpretations. Emphasis is on geologic mapping, stratigraphy, structure and tectonic analysis, and petrology. Students are billed a fee of $1,000. Prerequisite(s): EART 109, EART 109L, EART 110A, EART 110L, EART 110B, EART 110M, and EART 189A and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to Earth sciences and combined Earth sciences/environmental studies majors. Enrollment via an application.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 25,
+            "filled seats": 17,
+            "priority": "low"
+        }
+    }
+}

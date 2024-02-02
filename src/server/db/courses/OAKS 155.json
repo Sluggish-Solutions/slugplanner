@@ -1,0 +1,32 @@
+{
+    "dept_num": "OAKS 155",
+    "title": "Research for Social Justice: Special Topics",
+    "description": "Examines how social science research informs advocacy and advances social justice issues. Students analyze quantitative and qualitative data and use evidence-based findings to create a final advocacy project. Students will strengthen skills for developing research questions, interpreting qualitative and quantitative data, articulating research findings, and effectively communicating research for advocacy and public outreach. Relevant for students interested in careers in advocacy, policy, and nonprofit work.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to Oakes College affiliates during first-pass enrollment; open to all students at the start of second-pass enrollment.",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

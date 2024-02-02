@@ -1,0 +1,32 @@
+{
+    "dept_num": "EDUC 205",
+    "title": "Teaching, Learning, and Schooling in a Diverse Society",
+    "description": "Required for master's students in education other than those in an approved 4+1 pathway who have the option to waive the course; offered in summer. Three basic units comprise the subject matter: teaching/learning, with such topics as development, learning, pedagogy, and socialization theories; schooling, as the context of teaching/learning both in its existent structures and its reform movements; and the sociocultural context in which educational institutions exist, topics such as cultural and historical forces, political and economic condition, family, and community structures.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 62,
+            "filled seats": 55,
+            "priority": "high"
+        }
+    }
+}

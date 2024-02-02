@@ -1,0 +1,32 @@
+{
+    "dept_num": "ANTH 110I",
+    "title": "Cultures of Sustainability and Social Justice",
+    "description": "Brings together diverse forms of cultural knowledge and complexities of everyday life to illuminate longstanding concerns of sustainability and justice. Investigates multiple theories of sustainable development as well as tools, techniques, and contexts for ecological integrity, economic security, empowerment, responsibility and social well-being characteristic of sustainable communities. Case studies are drawn from around the world highlighting the work of Right Livelihood Award Laureates in tandem with UC faculty.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 100,
+            "filled seats": 40,
+            "priority": "very low"
+        }
+    }
+}

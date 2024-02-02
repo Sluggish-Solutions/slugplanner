@@ -1,0 +1,32 @@
+{
+    "dept_num": "CRWN 290",
+    "title": "Startup Entrepreneurship Academy",
+    "description": "Eight-week program offered over UC Santa Cruz's summer session. Graduate students bring an idea for a prototype (typically related to their graduate work) and are assigned to mentors with startup experience to provide feedback and help develop their business models. Students learn who their core and tertiary customers are, the marketing processes required for initial adoption and downstream sustainability, the data that will be required by future partnerships and users, and core project management, financial, legal, and marketing resources needed for new companies. Students also learn to assess intellectual property and risk and to identify financing and other key resources early.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 30,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

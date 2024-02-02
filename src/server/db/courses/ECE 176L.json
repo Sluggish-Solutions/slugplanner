@@ -1,0 +1,39 @@
+{
+    "dept_num": "ECE 176L",
+    "title": "Energy Conversion and Control Laboratory",
+    "description": "Simulink-based simulations of electric machines/drives in applications such as energy conservation and motion control in robotics and electric vehicles. (Formerly EE 176L.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): ECE 103 and ECE 171.",
+        "courses": [
+            [
+                "ECE 103"
+            ],
+            [
+                "ECE 171"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in ECE 176 is required. Enroll in lab and associated secondary lab.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 7,
+            "priority": "very low"
+        }
+    }
+}

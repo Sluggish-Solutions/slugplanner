@@ -1,0 +1,38 @@
+{
+    "dept_num": "BIOE 158L",
+    "title": "Field Methods in Marine Ecology",
+    "description": "Supervised individual research projects in experimental marine biology. Students carry out a complete research project, including (1) the formation of hypotheses; (2) the design and implementation of experiments; (3) collection, analysis, and interpretation of data; and (4) write-up of an oral presentation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): BIOE 107 or BIOE 108; satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "BIOE 107",
+                "BIOE 108"
+            ],
+            []
+        ]
+    },
+    "class_notes": "All students - If you completed the prerequisites but get an error message - email your proof of prerequisite material to the instructor for approval to enroll - Niko Kaplanis,nkaplanis@ucsc.edu.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 20,
+            "filled seats": 11,
+            "priority": "low"
+        }
+    }
+}

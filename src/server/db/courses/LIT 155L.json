@@ -1,0 +1,32 @@
+{
+    "dept_num": "LIT 155L",
+    "title": "Vampire Film",
+    "description": "Examines development and central themes of vampire film from the silent era to the present. Critical approach designations: Genres, Media.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Enrollment is now by instructor permission only. Please email the instructor,ebachman@ucsc.edu",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 70,
+            "filled seats": 50,
+            "priority": "low"
+        }
+    }
+}

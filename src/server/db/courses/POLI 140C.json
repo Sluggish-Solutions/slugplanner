@@ -1,0 +1,34 @@
+{
+    "dept_num": "POLI 140C",
+    "title": "Latin American Politics",
+    "description": "Overview of major approaches to the study of Latin American politics. Introductory survey of historical and contemporary democratic populist, authoritarian, and revolutionary regimes. Special attention is given to region's recent transitions toward democratic rule, market-based economic models, and decentralized governance. Evaluates institutional arrangements (including presidentialism, electoral rules and party systems), as well as a variety of social movements and strategies of resistance among subaltern social groups and classes.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Visiting Students - prerequisite review waived in summer. Contactsummer@ucsc.edufor a permission number to enroll.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 40,
+            "filled seats": 18,
+            "priority": "very low"
+        }
+    }
+}

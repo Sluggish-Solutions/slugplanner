@@ -1,0 +1,34 @@
+{
+    "dept_num": "FILM 194H",
+    "title": "Ethics and Documentary Filmmaking",
+    "description": "Online senior seminar that addresses long-standing ethical dilemmas including filmmaker/participant relationships, ethical ethnographic filmmaking, and conversations regarding the role of social media and new media. Explores issues such as allyship, privilege, and insider/outsider responsibilities for filmmakers working with topics such as class, the environment, gender, feminism, race and sexuality.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior film and digital media majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): FILM 120 and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to senior film and digital media majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "All students - if you would like to request an exception to the restriction, email proof of prerequisite material to the department atfilm@ucsc.eduand put \"Film 194H Summer Session Request\" in the subject line.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 20,
+            "filled seats": 21,
+            "priority": "high"
+        }
+    }
+}

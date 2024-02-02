@@ -1,0 +1,39 @@
+{
+    "dept_num": "CSE 156L",
+    "title": "Network Programming Laboratory",
+    "description": "Laboratory sequence illustrating concepts taught in CSE 156. Students learn use of network programming tools and methods via programming exercises. (Formerly Computer Engineering 156L.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisites: CSE 150 and CSE 101.",
+        "courses": [
+            [
+                "CSE 150"
+            ],
+            [
+                "CSE 101"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in CSE 156 is required. Enroll in lab and associated secondary lab.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 52,
+            "filled seats": 51,
+            "priority": "high"
+        }
+    }
+}

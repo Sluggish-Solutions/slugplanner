@@ -1,0 +1,38 @@
+{
+    "dept_num": "LALS 94X",
+    "title": "Mother Earth, Capitalism, and Crises",
+    "description": "With a focus on the Americas, this course introduces students into the debates about the causes and solutions to the twinned crisis of global climate change and rising inequality.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer",
+        "winter"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        },
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 49,
+            "priority": "high"
+        }
+    }
+}

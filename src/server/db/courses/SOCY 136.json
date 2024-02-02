@@ -1,0 +1,32 @@
+{
+    "dept_num": "SOCY 136",
+    "title": "Social Psychology",
+    "description": "Major theories and concepts in sociological study of social psychology. Topics include identity and social interaction, deviance, sociology of emotions, social narratives, and the social construction of reality.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to junior and senior sociology and Latin American studies/sociology majors and proposed majors, and sociology and global information and social enterprise minors.",
+        "courses": []
+    },
+    "class_notes": "Please emailmmcnamar@ucsc.edufor permission to enroll until the add deadline.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 118,
+            "filled seats": 90,
+            "priority": "moderate"
+        }
+    }
+}

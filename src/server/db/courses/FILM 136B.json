@@ -1,0 +1,36 @@
+{
+    "dept_num": "FILM 136B",
+    "title": "History of Television",
+    "description": "Survey of the historical development of broadcast television from its origins to the present day phenomena of cable, satellite, and electronic networks. Examination of major genres, forms, and modes of production and consumption within cultural, social, and economic contexts. Offered every other year, alternating with FILM 136A.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): FILM 20B.",
+        "courses": [
+            [
+                "FILM 20B"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment is now by instructor permission only. Please email the instructor,kfirsova@ucsc.edu",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 43,
+            "filled seats": 43,
+            "priority": "high"
+        }
+    }
+}

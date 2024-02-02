@@ -1,0 +1,32 @@
+{
+    "dept_num": "STEV 2",
+    "title": "Self and Society 2",
+    "description": "Winter quarter of Stevenson's core course continues development of analytical writing, critical reading, and effective speaking in exploring conflicts inherent in modern society. Investigates themes of colonization, race, gender, class, and cultural conflict. (Formerly course 81A.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to first-year and sophomore college members.",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 364,
+            "filled seats": 451,
+            "priority": "high"
+        }
+    }
+}

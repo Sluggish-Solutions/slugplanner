@@ -1,0 +1,32 @@
+{
+    "dept_num": "LALS 75",
+    "title": "Art and Social Change in Latin America: Diego Rivera",
+    "description": "Explores the works of Diego Rivera, other Mexican muralists, and the Latin American cultural movements that developed to address relevant social and political issues.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "For more information visit https://sites.google.com/view/lals75-2023/home.Once you enroll, the class will be hosted on Canvas.",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 90,
+            "filled seats": 73,
+            "priority": "moderate"
+        }
+    }
+}

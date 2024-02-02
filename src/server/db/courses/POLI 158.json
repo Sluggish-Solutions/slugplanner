@@ -1,0 +1,32 @@
+{
+    "dept_num": "POLI 158",
+    "title": "Law and Politics of Memory",
+    "description": "Examines why we choose to memorialize some aspects of our history, but not others. What impact do those choices have on our contemporary politics and society? How may memorials help create a stronger democracy?",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Also offered as LGST 158. From the Instructor: Mandatory section is held once a week, and the class TA will announce it one week before class starts.",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 120,
+            "filled seats": 72,
+            "priority": "low"
+        }
+    }
+}

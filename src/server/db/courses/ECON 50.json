@@ -1,0 +1,32 @@
+{
+    "dept_num": "ECON 50",
+    "title": "Economics, Science, and Policy of Climate Change",
+    "description": "Climate change has become the problem of today rather than a problem of the future, and it is felt as a personal problem by many young people. ;At the same time, the scale of the problem makes it common to feel resigned, depressed, and powerless. This course is designed to introduce students to accurate facts about climate change and to potential and existing climate solutions and ways students can contribute to these solutions in their personal and professional lives.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "This interdisciplinary course features lectures by faculty from across the campus on all aspects of climate change - from physical science to social justice and art. No prerequisites, open to all.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

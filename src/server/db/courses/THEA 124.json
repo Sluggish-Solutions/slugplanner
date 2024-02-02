@@ -1,0 +1,38 @@
+{
+    "dept_num": "THEA 124",
+    "title": "Movement for Performers",
+    "description": "Awareness and extension of personal movement repertoire, through observation, movement experience, and exploration.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Winter 2024 topic: Stage Combat.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "summer",
+        "winter"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 30,
+            "filled seats": 6,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 19,
+            "priority": "unavailible"
+        }
+    }
+}

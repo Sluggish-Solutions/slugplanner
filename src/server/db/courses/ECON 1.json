@@ -1,0 +1,50 @@
+{
+    "dept_num": "ECON 1",
+    "title": "Introductory Microeconomics: Resource Allocation and Market Structure",
+    "description": "For all interested students as well as prospective economics majors. Examines how markets allocate resources in different kinds of economies. Topics include competitive markets, monopoly, financial markets, income distribution, market failures, the environment, and the role of government.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Secondary section enrollment is strongly recommended.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "summer",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 330,
+            "filled seats": 322,
+            "priority": "high"
+        },
+        "spring": {
+            "total_seats": 300,
+            "filled seats": 298,
+            "priority": "high"
+        },
+        "summer": {
+            "total_seats": 141,
+            "filled seats": 123,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 352,
+            "filled seats": 349,
+            "priority": "high"
+        }
+    }
+}

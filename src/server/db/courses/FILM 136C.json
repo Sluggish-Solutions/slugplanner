@@ -1,0 +1,42 @@
+{
+    "dept_num": "FILM 136C",
+    "title": "Visual Culture and Technology: History of New Media",
+    "description": "Explores the relationship between technology and change and surveys the history of various technologies of visual culture from print to computer based imagery and the Internet.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): FILM 20C.",
+        "courses": [
+            [
+                "FILM 20C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer",
+        "winter"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 44,
+            "filled seats": 16,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 45,
+            "filled seats": 41,
+            "priority": "high"
+        }
+    }
+}

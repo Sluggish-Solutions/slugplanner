@@ -1,0 +1,36 @@
+{
+    "dept_num": "CRWN 98B",
+    "title": "Podcasting: Digital Storytelling in Ireland",
+    "description": "Class taught in Ireland during summer session together with Writing 2: Research and Travel Writing. Students immerse themselves in Irish culture and history and learn from local guest speakers. The class teaches storytelling, sound gathering, interviewing, scriptwriting, audio editing, and developing a ?radio voice.? Analyzes the strategies used for the production of professional podcasts. Students show their ability to integrate all these skills by rendering a research project from the concurrent Writing 2 course into the audio medium.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): concurrent enrollment in WRIT 2.",
+        "courses": [
+            [
+                "WRIT 2"
+            ]
+        ]
+    },
+    "class_notes": "Global Seminar, applications are now closed. To inquire about any late application deadlines, emailgloballearning@ucsc.edu.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 25,
+            "priority": "unavailible"
+        }
+    }
+}

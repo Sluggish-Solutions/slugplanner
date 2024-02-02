@@ -1,0 +1,32 @@
+{
+    "dept_num": "HAVC 160B",
+    "title": "Indigenous American Visual Culture Before 1550: The Andes",
+    "description": "The art of selected pre-hispanic cultures of Colombia, Ecuador, Peru, and Bolivia including the Nazca, Moche, Chimu, and Inca.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 48,
+            "priority": "unavailible"
+        }
+    }
+}

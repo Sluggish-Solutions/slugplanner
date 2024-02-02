@@ -1,0 +1,36 @@
+{
+    "dept_num": "THEA 117A",
+    "title": "Advanced Costume Construction",
+    "description": "Advanced principles in costume construction, including tailoring, advanced pattern drafting, and draping techniques. Focuses on translating modern techniques into historical garment construction. Teaches how to study artifacts and do primary research to unlock the past.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): course 17.",
+        "courses": [
+            [
+                "17"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 13,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "dept_num": "LALS 129S",
+    "title": "Memoria en Las Americas",
+    "description": "Taught in Spanish. Examines the ways memories have been created, protected, organized, and suppressed in Latin America, focusing specifically on the cultural technologies involved. Addresses the following questions: What do we remember and why? Who gets to remember? Who decides what is remembered? What does memory mean for our understanding of ourselves and the places we live? The purpose of this course is to provide students with intellectual tools to read against the grain of what becomes legitimized as official and hegemonic knowledge.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 30,
+            "filled seats": 18,
+            "priority": "low"
+        }
+    }
+}

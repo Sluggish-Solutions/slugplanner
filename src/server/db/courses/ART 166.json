@@ -1,0 +1,34 @@
+{
+    "dept_num": "ART 166",
+    "title": "Art of Bookmaking",
+    "description": "Introduction to production of small edition books and multiples utilizing sequential visual imaging, narrative content, and mixed media in bookmaking. Provides instruction in conceptualizing, producing, and distributing printed artists' multiples. Ideas encouraged within a broad range of possibilities via the format of artists' books. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): Three courses from: ART 15, ART 20G, ART 20H, ART 20I, ART 20J, ART 20K, ART 20L, ART 26 or by permission of instructor. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "All Students can enroll - the review of prerequisites and restrictions is waived in summer.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 25,
+            "filled seats": 9,
+            "priority": "very low"
+        }
+    }
+}

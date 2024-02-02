@@ -1,0 +1,32 @@
+{
+    "dept_num": "HAVC 141P",
+    "title": "Networks and Natures: Art, Technology, and the Nonhuman",
+    "description": "Through critical readings and primary sources, this course explores the historical and theoretical developments in the interactions of art, culture, nature, and technology. Sample topics include environmental art; media infrastructures; concepts of nature and the nonhuman; and climate change and visual culture.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "From the Instructor: This class examines film, animation, video games, virtual reality, and more to consider how concepts of nature, technology, and the human have been deployed to control and divide, to imagine radical futures, and to explore what it means to be human. The course examines how the division between nature and culture is socially constructed and obscures how multispecies relationships are essential to human society and how technology shapes and is shaped by our conceptions of the nonhuman.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 81,
+            "filled seats": 56,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "dept_num": "FILM 80V",
+    "title": "Video Games as Visual Culture",
+    "description": "Through aesthetic, medium-specific and critical theories of electronic games, course introduces histories, ideas, and debates that inform critical game studies. Themes include: games and cinema; race, class, gender, sexuality and representation; visual/cultural studies approaches; topical issues in games.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer",
+        "winter"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 120,
+            "filled seats": 111,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 400,
+            "filled seats": 404,
+            "priority": "high"
+        }
+    }
+}

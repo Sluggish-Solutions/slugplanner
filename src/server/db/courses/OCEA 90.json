@@ -1,0 +1,44 @@
+{
+    "dept_num": "OCEA 90",
+    "title": "Fundamentals of Climate",
+    "description": "Quantitative introduction to climate comprising five modules: atmosphere-ocean circulation, atmospheric teleconnections, El-Nino Southern Oscillation, the Pacific Decadal Oscillation, and global warming. Hands-on statistical methods are applied to real-world observations to develop a quantitative understanding of climate. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "summer",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 172,
+            "filled seats": 114,
+            "priority": "low"
+        },
+        "summer": {
+            "total_seats": 51,
+            "filled seats": 14,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 224,
+            "filled seats": 98,
+            "priority": "very low"
+        }
+    }
+}

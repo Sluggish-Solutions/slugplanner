@@ -59,7 +59,6 @@ async function CrudShowcase() {
       ) : (
         <p>You have no posts yet.</p>
       )}
-
       <CreatePost />
     </div>
   );

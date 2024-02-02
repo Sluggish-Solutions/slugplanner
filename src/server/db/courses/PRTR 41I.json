@@ -1,0 +1,32 @@
+{
+    "dept_num": "PRTR 41I",
+    "title": "Improvisation",
+    "description": "Theory and practice of improvisation in the performing arts with an emphasis on acting improvisation techniques. Readings and films develop a theoretical and historical understanding of spontaneous invention on stage. Students attend area theater improvisational performances.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "From the Instructor: No prior experience with improv required. This class and all acting improvisation classes at UCSC are only offered in the Summer Session. Students can take both 41I and 141W for in-depth experience and skill building.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 21,
+            "filled seats": 14,
+            "priority": "low"
+        }
+    }
+}

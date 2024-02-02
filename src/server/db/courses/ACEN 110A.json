@@ -1,0 +1,32 @@
+{
+    "dept_num": "ACEN 110A",
+    "title": "Advanced Academic English 1",
+    "description": "Students develop an academic vocabulary and successful reading strategies in English in order to understand high-level academic texts. Students also practice pronunciation and apply the rules of grammar to written and spoken academic language through weekly oral presentations and written assignments. Enrollment by instructor consent only.  Enrollment is restricted to international students.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 20,
+            "filled seats": 1,
+            "priority": "very low"
+        }
+    }
+}

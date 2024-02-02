@@ -1,0 +1,32 @@
+{
+    "dept_num": "THEA 14",
+    "title": "Drawing",
+    "description": "A fundamental course in drawing from still life, the figure, and in the landscape. The approach is from the tonal and volumetric aspects of the object. Color is introduced as the course progresses. Instruction fashioned to the individual needs of the student. The inexperienced are welcomed as well as the experienced.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 24,
+            "filled seats": 19,
+            "priority": "moderate"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "dept_num": "DANM 52",
+    "title": "Altering the Digital Image and Creative Art Practices",
+    "description": "Throughout the 10-week course, students are guided through the principles and elements of digital design and digital filters for editing as a creative approach to image-making, template building, poster design, collage, and color theory methodology. Students are encouraged to develop a portfolio of digital images based on their primary interests. The course is focused on aesthetics, color theory, and design as the central common theme.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Throughout the 5-week course, students will be guided through the principles & elements of digital design and digital filters for editing as a creative approach to image-making, template building, poster design, collage, and color theory methodology. Students are encouraged to develop a portfolio of digital images based on their primary interests. The course will be focused on aesthetics, color theory, and design as the central common theme. This course will use the Adobe CC Photoshop application as the primary editing tool for image-making.",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 55,
+            "filled seats": 42,
+            "priority": "moderate"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "dept_num": "ART 186",
+    "title": "Art and Globalization",
+    "description": "In this immersive studio art class students create site-responsive sculptures, drawings, performances and installations exploring art in a global context. Using the rich history and culture of Central Europe as site and locale, the class travels to contemporary art museums, cultural and historical sites in Prague and Berlin, then create responsive artworks on-site in the Czech Republic. Students create original artworks that explore the complex relationship between object-making, place-making, aesthetics and cultural identity in a global context. There is a pre-reading week for this class, three weeks of immersive study abroad, and a final review essay. The final exhibition in the Czech Republic is open to the public. Prerequisite(s): Three courses from: ART 15, ART 20G, ART 20H, ART 20I, ART 20J, ART 20K, ART 20L, ART 26. Enrollment is restricted to art majors. Enrollment is by permission of the instructor. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): Three courses from: ART 15, ART 20G, ART 20H, ART 20I, ART 20J, ART 20K, ART 20L, ART 26. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Global Seminar, applications are now closed. To inquire about any late application deadlines, emailgloballearning@ucsc.edu.",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Studio",
+    "credits": "6",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 14,
+            "priority": "unavailible"
+        }
+    }
+}

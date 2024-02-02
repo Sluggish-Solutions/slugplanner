@@ -1,0 +1,32 @@
+{
+    "dept_num": "HIS 39F",
+    "title": "Expansion, Power, and Change: Christian World Missions and Missionaries",
+    "description": "Course stretches students' reflections on the nature of Christian mission and the work of missionaries, their imbroglio with and involvement in state and society, and how historical sourcing may impact the way we see things, lives, and our past. Begins in the 1st century BCE where Christianity emerged in West Asia and is organized chronologically through the 21st century. Course examines Christianity's expansion and external power and the competing views of it as rebellious, revolutionary and justice-oriented momentum versus a repressive conversion institution working politically, militarily, and economically. Also examines how the perception and strategy of Christian mission changed in time, region, groups, and individual missionaries, and how Christian mission, as a power, contributed to the regional and global changes.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 60,
+            "filled seats": 14,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "dept_num": "MUSC 167R",
+    "title": "Recording Workshop",
+    "description": "Seminar in modern studio recording. Students learn aspects of recording from pre-production through mastering and distribution. Weekly recording sessions give students hands-on experience in running recording sessions and working with musicians. Admission by interview with instructor prior to first class meeting. Enrollment is restricted to music majors.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "summer",
+        "winter"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 10,
+            "filled seats": 5,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 10,
+            "filled seats": 10,
+            "priority": "high"
+        }
+    }
+}

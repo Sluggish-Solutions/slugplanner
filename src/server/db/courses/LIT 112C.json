@@ -1,0 +1,32 @@
+{
+    "dept_num": "LIT 112C",
+    "title": "Charles Dickens",
+    "description": "Study of representative work by Charles Dickens. Critical approach designations: Canons, Histories. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Special Session: July 23-29, all day. From the Instructor: Class is taught as part of the the Dickens Universe https://dickens.ucsc.edu/universe/ , which will feature A Tale of Two Cities by Charles Dickens. A historical novel set in London and Paris at the time of the French Revolution, its plot involves many sensational and melodramatic elements: imprisonment in the Bastille and the bloody Reign of Terror; lost children and body doubles; heroism and sacrifice.",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 21,
+            "filled seats": 12,
+            "priority": "low"
+        }
+    }
+}

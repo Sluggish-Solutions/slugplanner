@@ -1,0 +1,32 @@
+{
+    "dept_num": "EDUC 141",
+    "title": "Bilingualism and Schooling",
+    "description": "Introduces participants to issues related to the schooling of students who speak languages other than or in addition to English. Uses a multidisciplinary perspective to understand the circumstances these students face in schools and considers approaches and policies that best meet their needs.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to junior and senior education, democracy and justice majors, science education majors, STEM & EDUC minors, or by permission of instructor.",
+        "courses": []
+    },
+    "class_notes": "All students can enroll - prerequisites and restriction review is waived in summer.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 60,
+            "filled seats": 15,
+            "priority": "very low"
+        }
+    }
+}

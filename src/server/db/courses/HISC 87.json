@@ -1,0 +1,32 @@
+{
+    "dept_num": "HISC 87",
+    "title": "What is Utopia?",
+    "description": "Utopia translates to ''no place'' though it sounds identical to another Greek word, ''eutopia,'' or ''good place.'' This double meaning speaks to the desire for the ideal society coupled with the very impossibility of its creation. While the term utopia originated in the tradition of political philosophy, this course opens up discussion to a range of utopian thinking in the domains of literature, philosophy, and theory. Some of the questions students tackle are: What are some common elements of utopian imaginaries? Are utopias always already dystopias? How is the concept of utopia connected to the way we shape and experience space? Close reading and discussion of written and visual texts is complemented by analytical and creative writing exercises that engage the themes.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "A guiding question of this course: Do we need the concept of utopia even as we realize it is unachievable? Readings include Thomas More, Italo Calvino, Saidiya Hartman, Donna Haraway, Ursula LeGuin, Octavia Butler, and others.",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 20,
+            "filled seats": 15,
+            "priority": "low"
+        }
+    }
+}

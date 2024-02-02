@@ -1,0 +1,32 @@
+{
+    "dept_num": "ECE 80G",
+    "title": "Creating and Financing a Sustainable Startup in the Global Economy",
+    "description": "Introduces students and prospective entrepreneurs to the ingredients required to successfully create and finance a sustainability-minded startup or nonprofit in the global economy. Emphasis is placed on ethical business practice, tools for understanding markets and supply chains, and building value for all stakeholders, including communities and the environment.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "From the Instructor: ECE 80G assumes a working knowledge of Excel/Numbers and use of equations. Students should also be able to plot time series graphs and manipulate formulas that include exponents from their math background.Also offered as CRSN 80G.",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 41,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

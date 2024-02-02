@@ -1,0 +1,32 @@
+{
+    "dept_num": "BME 188C",
+    "title": "Synthetic Biology Mentored Research C",
+    "description": "Third of three courses in a 12-credit collaborative research project available to students in physical sciences and biomolecular engineering intended to satisfy the capstone requirement. Students in this course sequence may be participating in the annual IGEM (International Genetically Engineered Machines) competition. Course includes training in specific skills relevant to the specific sub-team and overall project, including lab-specific training (pcr, DNA electrophoresis, gel documentation, standard reagent prep, lab safety, lab equipment, project specifics). Prerequisite(s): BME 188B. Enrollment is restricted to juniors and seniors. Enrollment is by instructor permission.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 18,
+            "filled seats": 14,
+            "priority": "moderate"
+        }
+    }
+}

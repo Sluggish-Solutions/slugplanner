@@ -1,0 +1,32 @@
+{
+    "dept_num": "ART 132",
+    "title": "Figure Painting",
+    "description": "Students learn the classical practice of painting the nude figure from life using traditional oil painting techniques. Students study short poses, limited color, and graduate to long pose, full color. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "All Students can enroll - the review of prerequisites and restrictions is waived in summer.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 25,
+            "filled seats": 21,
+            "priority": "moderate"
+        }
+    }
+}

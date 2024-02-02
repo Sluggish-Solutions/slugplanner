@@ -1,0 +1,32 @@
+{
+    "dept_num": "BME 188B",
+    "title": "Synthetic Biology--Mentored Research B",
+    "description": "This five-credit course is the second of three courses in a 12-credit collaborative research project available to students in physical sciences and biomolecular engineering intended to satisfy the capstone requirement. Multiple oral/written presentations are required, including a formal conference presentation. Prerequisite(s): BME 188A. Enrollment is restricted to juniors and seniors. Enrollment is by instructor permission. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 18,
+            "filled seats": 14,
+            "priority": "moderate"
+        }
+    }
+}

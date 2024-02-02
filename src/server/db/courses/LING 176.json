@@ -1,0 +1,36 @@
+{
+    "dept_num": "LING 176",
+    "title": "Variation in Language Processing",
+    "description": "Variation is an inseparable and natural part of being human. This course focuses on variation in language, a unique part of the human experience. How do differences in language background, cognition, and modality contribute to variation in language processing? Course approaches these questions guided by the premise that there are many ways to use language. Students critically examine scientific findings relating to individual and cross-population differences in language processing, with the intention of reframing deficit-based views of language use.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): LING 50.",
+        "courses": [
+            [
+                "LING 50"
+            ]
+        ]
+    },
+    "class_notes": "All students - If you completed the prerequisites but get an error message email your proof of prerequisite material to the department atling@ucsc.edufor approval to enroll.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 40,
+            "filled seats": 25,
+            "priority": "low"
+        }
+    }
+}

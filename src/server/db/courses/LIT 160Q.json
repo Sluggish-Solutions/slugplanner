@@ -1,0 +1,32 @@
+{
+    "dept_num": "LIT 160Q",
+    "title": "(Gender)Queer Theories",
+    "description": "Examines theory and practice of (gender) queer- and trans-ness in the present historical moment. Drawing primarily on critical theory from trans and queer studies, alongside literary texts and popular culture, the course introduces intellectual and affective resources for navigating questions about gender non-normativity.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Topic: Queer Cultures of the Global South.This course takes a comparative approach to reading the literature of the queer Global South, with a focus on Pakistan and the Philippines. Satisfies the Global Distribution Requirement for Literature.",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 50,
+            "filled seats": 41,
+            "priority": "moderate"
+        }
+    }
+}

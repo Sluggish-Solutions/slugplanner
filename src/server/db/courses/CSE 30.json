@@ -1,0 +1,64 @@
+{
+    "dept_num": "CSE 30",
+    "title": "Programming Abstractions: Python",
+    "description": "Introduction to software development in Python focusing on structuring software in terms of objects endowed with primitive operations. Introduces concepts and techniques via a sequence of concrete case studies. Coursework consists of programming assignments and a final examination. Note that CSE 30 assumes some Python experience, students trained in a different language should self-study Python to prepare for CSE 30. See CSE Testout Exam for resources and further information.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): CSE 20 or BME 160; and MATH 3 or MATH 11A or MATH 19A or AM 3 or AM 11A or ECON 11A, or a score of 400 or higher on the mathematics placement examination (MPE).",
+        "courses": [
+            [
+                "CSE 20",
+                "BME 160"
+            ],
+            [
+                "MATH 3",
+                "MATH 11A",
+                "MATH 19A",
+                "AM 3",
+                "AM 11A",
+                "ECON 11A",
+                "400"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated secondary lab. Enrollment restricted to frosh, sophomores, or computer science, computer engineering, computer game design, bioinformatics, biomolecular engineering and bioinformatics, network and digital technology, robotics engineering, and technology information management majors and computer science and computer game design proposed majors during First Pass enrollment. Restrictions lifted after First Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "7",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "summer",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 447,
+            "filled seats": 326,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 350,
+            "filled seats": 430,
+            "priority": "high"
+        },
+        "summer": {
+            "total_seats": 80,
+            "filled seats": 33,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 320,
+            "filled seats": 522,
+            "priority": "high"
+        }
+    }
+}

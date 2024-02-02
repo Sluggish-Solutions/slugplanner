@@ -1,0 +1,32 @@
+{
+    "dept_num": "HIS 150D",
+    "title": "The Japanese Empire, 1868-1945",
+    "description": "Examines the history of the Japanese colonial empire from 1868 to 1945, including the colonies of Taiwan, Korea, Micronesia, and Manchuria. Considers how the colonies were ruled and what the legacies of the empire have been.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 60,
+            "filled seats": 16,
+            "priority": "very low"
+        }
+    }
+}

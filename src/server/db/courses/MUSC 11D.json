@@ -1,0 +1,32 @@
+{
+    "dept_num": "MUSC 11D",
+    "title": "Introduction to World Music",
+    "description": "Covers topics reflecting distinctive features of selected world music cultures. Introduces content, scope, and method of ethnomusicology. Focuses on understanding the musical styles, performance practices, and cultural functions of these musical traditions. Incorporates live class performance of selected music.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "dept_num": "THEA 30",
+    "title": "Introduction to Dance Theory and Technique",
+    "description": "Intensive instruction in developing the dancer's mind/body, with introduction to movement theory and practice. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "summer"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 0,
+            "filled seats": 31,
+            "priority": "unavailible"
+        },
+        "spring": {
+            "total_seats": 0,
+            "filled seats": 29,
+            "priority": "unavailible"
+        },
+        "summer": {
+            "total_seats": 30,
+            "filled seats": 11,
+            "priority": "very low"
+        }
+    }
+}

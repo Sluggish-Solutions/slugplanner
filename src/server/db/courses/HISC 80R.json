@@ -1,0 +1,32 @@
+{
+    "dept_num": "HISC 80R",
+    "title": "What is Space?",
+    "description": "Examines space as it relates to questions of politics, philosophy, and everyday life. Space, rather than a neutral background or setting, is socially produced, making it a site of constant struggle. Course studies space in its relationship to class conflict and racialized violence, but also as a terrain of collective dreams, experimentation, and political possibility. Themes include: questions of orientation and disorientation, production and annihilation, city and hinterland, interior and exterior, subjection and liberation. Also focuses on problems of race and class as they inform capitalism, and experiments with practices of psycho-geography on walks or ''drifts'' across campus. Thinkers discussed include Benjamin, Bachelard, Merleau-Ponty, Lefebvre, Debord, Harvey, Jameson, Gilmore, and others. (Formerly offered as Urban Consciousness: Life, Inequality, and the City.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 21,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

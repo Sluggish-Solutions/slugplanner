@@ -1,0 +1,36 @@
+{
+    "dept_num": "THEA 131C",
+    "title": "Dance Studio II: Advanced Contemporary Forms and Practices",
+    "description": "Continued study of contemporary dance theory and practice. Focus on intermediate dance technique, individual and group movement invention, choreographic voice, and theatrical applications.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): THEA 31C or permission of instructor.",
+        "courses": [
+            [
+                "THEA 31C"
+            ]
+        ]
+    },
+    "class_notes": "Winter 2024 topic: Intermediate-level practice course in the Afro-Latin social dances Samba and Salsa. Questions may be addressed to the instructor: Marina Magalhaes,mmagalhe@ucsc.edu.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 15,
+            "priority": "unavailible"
+        }
+    }
+}

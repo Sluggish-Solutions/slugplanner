@@ -1,0 +1,36 @@
+{
+    "dept_num": "CSE 104",
+    "title": "Computability and Computational Complexity",
+    "description": "Turing machines, general phase-structure grammars, the Chomsky hierarchy, recursive functions, diagonalization, the Halting problem, computability and unsolvability, computational complexity, time and space bounds, NP-completeness with emphasis on reductions between problems from various areas. (Formerly Computer Science 132.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): CSE 103.",
+        "courses": [
+            [
+                "CSE 103"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

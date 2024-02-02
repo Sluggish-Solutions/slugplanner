@@ -1,0 +1,32 @@
+{
+    "dept_num": "CRWN 1A",
+    "title": "Introduction to University Life and Learning",
+    "description": "CRWN 1A explores opportunities, expectations, and responsibilities in university life. Topics include: academic planning; general education requirements; majors and minors; campus policy; and preparation for CRWN 1A: Power & Representation. Students gain familiarity with resources for health, well-being, time management, academic success, cultivating just communities, sexual harassment and violence prevention, reflection on UCSC's principles of community, and an introduction to the living and learning tradition of Crown College. This course can be taken for Pass/No Pass grading only.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to entering first-year Crown College students.",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "1",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 453,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "dept_num": "EDUC 135",
+    "title": "Gender and Education",
+    "description": "Addresses the changing but continuing patterns of unequal expectations, opportunities, and treatment throughout the educational system for all students, female and male, who do not match a standard model of gender performance.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to junior and senior education, democracy and justice majors, science education majors, STEM & EDUC minors, or by permission of instructor.",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer",
+        "winter"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 45,
+            "filled seats": 14,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 45,
+            "filled seats": 45,
+            "priority": "high"
+        }
+    }
+}

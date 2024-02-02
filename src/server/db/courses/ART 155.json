@@ -1,0 +1,32 @@
+{
+    "dept_num": "ART 155",
+    "title": "Photo Field Research Quarter (PFRQ): California Road Trip",
+    "description": "Offers students the unique opportunity to live and learn and photograph outside the classroom, actively engaging locations across the state of California. Students will cover 2400 miles from Northern Mendocino County to the Salton Sea, Eastern Sierra, Death Valley, and Big Sur. Class exposes students to cultural, historical, and environmental issues facing California. Due to the rigor of the course, students must submit an application demonstrating the commitment and photo preparation necessary for successful completion of the class. Students are billed a materials fee of $550.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Students must apply to be accepted. Applications are due by May 15 (11:59 PM). Be aware that waiting until the deadline may result in being waitlisted, as acceptance is rolling. Application: https://art.ucsc.edu/sites/default/files/PFRQ%20application%202023%20blank.pdf Class will start at 11 AM on August 1st in Elena Baskin I-200 and returns from the field on the evening of August 19th.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Field Studies",
+    "credits": "10",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 10,
+            "filled seats": 10,
+            "priority": "high"
+        }
+    }
+}

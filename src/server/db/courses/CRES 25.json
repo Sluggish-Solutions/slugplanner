@@ -1,0 +1,32 @@
+{
+    "dept_num": "CRES 25",
+    "title": "Race / Land / Property",
+    "description": "Provides a long historical account of the accumulation of land through logics of dispossession within the system of racial capitalism. Students explore the historical methods of claiming private property as a racialised project. Questions of settler-colonialism, imperialism, indigeneity, place and placelessness as well as claims to land and sovereignty are key to our inquiry. Focus is on the legacies of the transatlantic slave trade, specifically through examples in England, the Caribbean and North America.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

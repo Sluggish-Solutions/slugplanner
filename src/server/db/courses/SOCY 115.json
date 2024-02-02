@@ -1,0 +1,34 @@
+{
+    "dept_num": "SOCY 115",
+    "title": "Introduction to Sound Studies",
+    "description": "Explores the interdisciplinary field of Sound Studies. Surveys the work of social scientists, media scholars, philosophers and others to better understand the role of sound in society. Lectures are presented in an audio-only format with a variety of listening activities and supplemental videos. By the end of the course, students will have a working understanding of the field of Sound Studies and a completed final project of their own design.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 90,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): SOCY 1 or SOCY 10 or SOCY 15. Enrollment is restricted to juniors and seniors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "All students can enroll - prerequisite and restriction review is lifted in summer.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 50,
+            "filled seats": 47,
+            "priority": "high"
+        }
+    }
+}

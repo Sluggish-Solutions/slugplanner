@@ -1,0 +1,38 @@
+{
+    "dept_num": "SOCY 10",
+    "title": "Issues and Problems in American Society",
+    "description": "Exploration of nature, structure, and functionings of American society. Explores the following: social institutions and economic structure; the successes, failures, and intractabilities of institutions; general and distinctive features of American society; specific problems such as race, sex, and other inequalities; urban-rural differences. Fulfills lower-division major requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Enroll in lecture and associated discussion section. In-person and remote sections options are available",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer",
+        "winter"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 75,
+            "filled seats": 12,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 173,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "dept_num": "FMST 145",
+    "title": "Racial and Gender Formations in the U.S",
+    "description": "Introduces the defining issues surrounding racial and gender formations in the U.S. through an understanding of the term \"women of color\" as an emergent, dynamic, and socio-political phenomenon. Interrogates organizing practices around women of color across multiple sites: film and media, globalization, representation, sexuality, historiography, and war, to name a select few.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 45,
+            "filled seats": 26,
+            "priority": "low"
+        }
+    }
+}

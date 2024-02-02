@@ -1,0 +1,36 @@
+{
+    "dept_num": "CRWN 94",
+    "title": "Eco-Entrepreneurship in Costa Rica",
+    "description": "Introduction to eco entrepreneurship. Examines real-world case studies of businesses representing a variety of sectors in the area of eco-entrepreneurship. Students get to know their owners and deconstruct the business mechanics and plans of these companies. Students are then encouraged to apply this knowledge to create innovative solutions and sustainable ventures or to discover areas of inefficiency in the case studies that can be optimized. The basics of entrepreneurship is delivered through a concurrently taught course, CRWN 92, which shows how to conduct market research, how to define a value proposition, and how to determine the costs and establish a revenue model.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): CRWN 92.",
+        "courses": [
+            [
+                "CRWN 92"
+            ]
+        ]
+    },
+    "class_notes": "Global Seminar, applications are now closed. To inquire about any late application deadlines, emailgloballearning@ucsc.edu.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Field Studies",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 14,
+            "priority": "unavailible"
+        }
+    }
+}

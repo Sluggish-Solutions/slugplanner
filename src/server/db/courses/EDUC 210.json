@@ -1,0 +1,32 @@
+{
+    "dept_num": "EDUC 210",
+    "title": "Health, Safety, and Community",
+    "description": "Offered in summer. Addresses the preparation of teachers for creating a supportive, healthy environment for student learning. Covers topics related to physical, emotional, and social health.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "2",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 64,
+            "filled seats": 56,
+            "priority": "high"
+        }
+    }
+}

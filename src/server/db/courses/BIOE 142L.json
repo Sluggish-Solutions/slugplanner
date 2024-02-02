@@ -1,0 +1,41 @@
+{
+    "dept_num": "BIOE 142L",
+    "title": "Animal Behavior in the Wild (A Virtual Field Course)",
+    "description": "Online laboratory course with a remote (not in-person), virtual field component.Students learn about the scientific study of animal behavior from an ecological and evolutionary perspective through lectures, behavior videos, assignments, field observations, digital labs and final research project. The general goal, however, is to develop the ability to observe the natural world, design research, collect and interpret data, and communicate ideas.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisites: BIOL 20A, BIOE 20B, and BIOE 20C. Students may benefit from taking BIOE 142L after or concurrently with BIOE 107 or BIOE 140.",
+        "courses": [
+            [
+                "BIOL 20A BIOE 20B"
+            ],
+            [
+                "BIOE 20C S     BIOE 142L",
+                "BIOE 107",
+                "BIOE 140"
+            ]
+        ]
+    },
+    "class_notes": "All students - If you completed the prerequisites but get an error message - email your proof of prerequisite material to the instructor for approval to enroll - Louise DeMorais,ldemorai@ucsc.edu.Enroll in lab and associated secondary lab.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 25,
+            "filled seats": 25,
+            "priority": "high"
+        }
+    }
+}

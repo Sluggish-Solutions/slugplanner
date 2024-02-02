@@ -1,0 +1,54 @@
+{
+    "dept_num": "CSE 102",
+    "title": "Introduction to Analysis of Algorithms",
+    "description": "Methods for the systematic construction and mathematical analysis of algorithms. Order notation, the RAM model of computation, lower bounds, and recurrence relations are covered. The algorithm design techniques include divide-and-conquer, branch and bound, and dynamic programming. Applications to combinatorial, graph, string, and geometric algorithms. (Formerly Computer  Science 102.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): CSE 101.",
+        "courses": [
+            [
+                "CSE 101"
+            ]
+        ]
+    },
+    "class_notes": "Enrollment restricted to computer science B.S. majors during First Pass enrollment. Major restrictions lifted after First Pass enrollment.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "spring",
+        "summer",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 120,
+            "filled seats": 79,
+            "priority": "low"
+        },
+        "spring": {
+            "total_seats": 200,
+            "filled seats": 127,
+            "priority": "low"
+        },
+        "summer": {
+            "total_seats": 70,
+            "filled seats": 49,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 240,
+            "filled seats": 240,
+            "priority": "high"
+        }
+    }
+}

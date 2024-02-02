@@ -1,0 +1,32 @@
+{
+    "dept_num": "POLI 101",
+    "title": "Analyzing Political Data",
+    "description": "Focuses upon quantitative data analysis and research methods used in the study of politics. Through a series of hands-on assignments students learn to describe data and statistical relationships, measure complex variables, assess statistical significance and construct multivariate models with both indirect relationships and interactions. (Formerly Introduction to Research Methods.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SR",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 25,
+            "priority": "very low"
+        }
+    }
+}

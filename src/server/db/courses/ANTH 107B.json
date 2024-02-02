@@ -1,0 +1,40 @@
+{
+    "dept_num": "ANTH 107B",
+    "title": "Methods and Research in Biological Anthropology: Stable Isotopes",
+    "description": "This combination of lectures, readings, discussions, and hands-on laboratory experience provides a comprehensive overview of stable isotope research to reconstruct diet and mobility. Discover the wide application of isotopic research in biological anthropology, bioarcheology, primatology and forensics. Prerequisite(s): at least one of ANTH 101, ANTH 104, ANTH 106, ANTH 107, or ANTH 110F and by permission of the instructor. (Formerly Methods and Research in Stable Isotope Ecology.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): ANTH 101 or ANTH 104 or ANTH 106 or ANTH 107 or ANTH 110F.",
+        "courses": [
+            [
+                "ANTH 101",
+                "ANTH 104",
+                "ANTH 106",
+                "ANTH 107",
+                "ANTH 110F"
+            ]
+        ]
+    },
+    "class_notes": "If you completed the prerequisites but get an error message: UCSC Students - email and consult with the undergraduate program coordinator atanthugra@ucsc.edufor enrollment permission. Visiting Students - email your proof of prerequisite material to the instructor for approval to enroll - Vicky Oelze,voelze@ucsc.edu.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 12,
+            "filled seats": 8,
+            "priority": "low"
+        }
+    }
+}

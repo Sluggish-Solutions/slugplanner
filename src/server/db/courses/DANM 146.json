@@ -1,0 +1,32 @@
+{
+    "dept_num": "DANM 146",
+    "title": "Game Design in Participatory Performance",
+    "description": "Students get a grounding in the fundamentals of game design and character driven performance. Meetings focus on a combination of understanding current practice across various styles of interactivity, and practice of participatory performance culminating in a short group performance with participatory elements.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

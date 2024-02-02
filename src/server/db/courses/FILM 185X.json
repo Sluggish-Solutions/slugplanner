@@ -1,0 +1,32 @@
+{
+    "dept_num": "FILM 185X",
+    "title": "EyeCandy Seminar",
+    "description": "Seminar and workshop on writing, producing, and publishing a journal. Students engage in assignments and exercises directly and indirectly related to the production of a web launch as well as a print copy of EyeCandy. Permission of instructor required based upon student's participation in EyeCandy in winter and spring quarters. Preference given to film and digital media majors and minors; others may apply based on qualifications and as space allows. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Enrollment is by application and instructor permission only. Applications will be reviewed after the posted deadline has passed and students will be contacted directly if they are accepted into the course. Applications and instructions can be found at this link: https://docs.google.com/document/d/1NgQf-2VAAMH3IsCWHYjvBG1oB602mD2Qe6V5ki8yors/edit?usp=sharing",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 30,
+            "priority": "high"
+        }
+    }
+}

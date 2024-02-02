@@ -1,0 +1,36 @@
+{
+    "dept_num": "CHIN 2",
+    "title": "First-Year Chinese",
+    "description": "Continuation of Chinese 1, which assumes that students are familiar both with the pinyin romanization system and approximately 150 basic characters.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): CHIN 1 or by consent of instructor.",
+        "courses": [
+            [
+                "CHIN 1"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 31,
+            "priority": "low"
+        }
+    }
+}

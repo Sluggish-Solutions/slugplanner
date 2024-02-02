@@ -1,0 +1,32 @@
+{
+    "dept_num": "HAVC 191S",
+    "title": "Topics in American Art and Visual Culture",
+    "description": "Advanced seminar requiring intensive research and writing on changing topics related to a specific area of American art and/or visual culture chosen to demonstrate critical mastery of this subject. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "This advanced seminar will focus on U.S. artists, mostly modern and contemporary, who consider the concept of freedom. What is freedom? What is un-freedom? How has it been depicted? Thematic topics will focus on different media including painting, sculpture, photography, installation art, and public art.",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 0,
+            "filled seats": 20,
+            "priority": "unavailible"
+        }
+    }
+}

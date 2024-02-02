@@ -1,0 +1,32 @@
+{
+    "dept_num": "OCEA 1",
+    "title": "The Oceans",
+    "description": "An interdisciplinary introduction to oceanography focusing on biological, chemical, geological, and physical processes. Covers topics such as origins and structure of planet Earth and its oceans, co-evolution of Earth and life, plate tectonics, liquid water and the hydrologic and hydrothermal cycles, salinity and elemental cycles, ocean circulation, primary production and nutrient cycles, plankton and nekton, life on the sea floor, near shore and estuarine communities, future environmental problems our oceans face. Students may also enroll in and receive credit for EART 1.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "SI",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 51,
+            "filled seats": 33,
+            "priority": "low"
+        }
+    }
+}

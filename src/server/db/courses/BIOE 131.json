@@ -1,0 +1,45 @@
+{
+    "dept_num": "BIOE 131",
+    "title": "Animal Physiology",
+    "description": "Principles and concepts underlying the function of tissues and organ systems in animals with emphasis on vertebrate systems. Students cannot receive credit for this course and BIOL 130.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): BIOL 20A, BIOE 20B, and BIOE 20C.",
+        "courses": [
+            [
+                "BIOL 20A BIOE 20B"
+            ],
+            [
+                "BIOE 20C"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer",
+        "winter"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 60,
+            "filled seats": 37,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 106,
+            "filled seats": 109,
+            "priority": "high"
+        }
+    }
+}

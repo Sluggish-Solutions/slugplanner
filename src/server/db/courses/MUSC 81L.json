@@ -1,0 +1,32 @@
+{
+    "dept_num": "MUSC 81L",
+    "title": "Music in Animated Film",
+    "description": "Introduces a selective survey of music in animated film (Disney, Pixar and DreamWorks), both instrumental and vocal, highlighting the representative works from the 1930s to the present. Through listening and viewing, students explore the use and role of music in animated film.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 41,
+            "filled seats": 0,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "dept_num": "PSYC 139J",
+    "title": "Forgetting",
+    "description": "Explores forgetting as an essential and adaptive process in human memory. Topics include: intentional and unintentional forms of forgetting; the (re)constructive nature of memory; and cases of extreme remembering. Satisfies the senior seminar requirement. Satisfies the senior comprehensive requirement.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior psychology and cognitive science majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): satisfaction of Entry Level Writing and Composition requirements and PSYC 100. Enrollment is restricted to senior psychology and cognitive science majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "All students - If you completed the prerequisites but get an error message, email your proof of prerequisite material to the department -psyadv@ucsc.edufor approval to enroll.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 16,
+            "priority": "unavailible"
+        }
+    }
+}

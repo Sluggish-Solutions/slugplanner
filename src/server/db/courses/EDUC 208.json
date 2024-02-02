@@ -1,0 +1,32 @@
+{
+    "dept_num": "EDUC 208",
+    "title": "Portfolio Development",
+    "description": "Offered in summer. Provides student and faculty adviser with time to confer over the completion of the required portfolio.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 55,
+            "filled seats": 53,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "dept_num": "ECE 280O",
+    "title": "Seminar on Applied Optics",
+    "description": "Weekly seminar series covering topics of current research in applied optics, including integrated, quantum, nonlinear, and nano-optics. Current research work and literature in these areas are discussed. Enrollment by permission of instructor. (Formerly EE 280O.) May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 15,
+            "filled seats": 9,
+            "priority": "low"
+        }
+    }
+}

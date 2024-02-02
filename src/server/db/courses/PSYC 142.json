@@ -1,0 +1,37 @@
+{
+    "dept_num": "PSYC 142",
+    "title": "Psychology of Oppression and Liberation",
+    "description": "Provides theoretical frameworks for understanding interlocking systems of oppression from the perspective of  \"the oppressed\" as well as \"the oppressor\" nationally and internationally. Goes beyond mainstream (traditional) psychology and emphasizes critical psychological perspectives that include micro- and macro-level theories of oppression; importance of ideology in oppressive systems; and theories of social change and liberation across contexts.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): PSYC 100 or feminist studies, sociology, community studies, or politics majors",
+        "courses": [
+            [
+                "PSYC 100",
+                ""
+            ]
+        ]
+    },
+    "class_notes": "All students - If you completed the prerequisites but get an error message, email your proof of prerequisite material to the department -psyadv@ucsc.edufor approval to enroll.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 25,
+            "filled seats": 16,
+            "priority": "low"
+        }
+    }
+}

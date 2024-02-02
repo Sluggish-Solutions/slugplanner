@@ -1,0 +1,32 @@
+{
+    "dept_num": "FILM 168M",
+    "title": "National Cinema and Culture: Morocco",
+    "description": "Faculty-led study abroad course taught in Rabat, Morocco. In-depth investigation of Moroccan cinema and culture, including literature and art. Includes visits and field trips around Morocco.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Global Seminar, applications are now closed. To inquire about any late application deadlines, emailgloballearning@ucsc.edu.",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 9,
+            "priority": "unavailible"
+        }
+    }
+}

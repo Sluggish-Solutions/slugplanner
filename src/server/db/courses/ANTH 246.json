@@ -1,0 +1,32 @@
+{
+    "dept_num": "ANTH 246",
+    "title": "Advanced Readings in Environmental Anthropology",
+    "description": "Survey of history and topics of contemporary interest in environmental anthropology, including political ecology, environmental history, ethnoecology, and multi-species anthropology. Additional advanced readings on contemporary environmental anthropology research. Students cannot receive credit for this course and course 146.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to Anthropology graduate students or by permission of the instructor.",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 74,
+            "filled seats": 70,
+            "priority": "high"
+        }
+    }
+}

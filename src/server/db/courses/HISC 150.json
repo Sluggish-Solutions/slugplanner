@@ -1,0 +1,32 @@
+{
+    "dept_num": "HISC 150",
+    "title": "Radical Political Theory",
+    "description": "Introduction to texts of radical political theory, a body of work that critically examines fundamental premises of politics. Addresses the question ''What is the 'political'?'' Explores political theory of the word ''radical'' Examines texts of contemporary political theory, ideas of politics and the political that are original, defy convention, and challenge our notions of what is acceptable; and examines etymological origins of the word. Weekly readings include new ''little'' books, contemporary essays, manifestos, and zines, that touch on the current edges of political theory. Course fulfills the ;Textual Analysis and Interpretation (TA) general education requirement. This means that students are expected to read attentively, exercising critical and analytical thinking, and evaluate the effectiveness and persuasiveness of the theories contained within these readings, as well as the modes of writing used to convey them.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 21,
+            "filled seats": 9,
+            "priority": "very low"
+        }
+    }
+}

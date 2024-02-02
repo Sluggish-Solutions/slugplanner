@@ -1,0 +1,32 @@
+{
+    "dept_num": "SOCY 130",
+    "title": "Sociology of Food",
+    "description": "Following food from mouth to dirt, explores the politics, economy, and culture of eating, feeding, buying, selling, and growing food. Topics cover both the political economy of the food system as well as how body and nature are contested categories at either \"end\" of this system.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to juniors and seniors. Enrollment is restricted to sociology majors, proposed majors, and minors in sociology, global information and social enterprise, and Latin American studies/sociology combined majors.",
+        "courses": []
+    },
+    "class_notes": "All students can enroll - restrictions are lifted in summer.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 50,
+            "filled seats": 13,
+            "priority": "very low"
+        }
+    }
+}

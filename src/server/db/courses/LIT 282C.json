@@ -1,0 +1,32 @@
+{
+    "dept_num": "LIT 282C",
+    "title": "Texts and Contexts",
+    "description": "The implications of social and political change examined in terms of literary theory and practice. Equal emphasis placed on literary and other kinds of cultural texts: historical, political, cinematic. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": []
+    },
+    "class_notes": "Cinema of French Imperialism (French)",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

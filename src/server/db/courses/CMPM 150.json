@@ -1,0 +1,32 @@
+{
+    "dept_num": "CMPM 150",
+    "title": "Creating Digital Audio",
+    "description": "Introduces digital sound recording and editing technologies, sound synthesis, and concepts in sound design for media production. Covers the basics of sound capture, microphones, audio manipulation and editing, effects, sound formats, mixing and dynamics, synthesizers, audio software, and game audio.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to sophomores, juniors, and seniors.",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 130,
+            "filled seats": 127,
+            "priority": "high"
+        }
+    }
+}

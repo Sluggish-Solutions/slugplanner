@@ -1,0 +1,32 @@
+{
+    "dept_num": "HUMN 35",
+    "title": "Language Technology: Themes Across Cultures and Histories",
+    "description": "Focuses on the technologies people build to record and transmit language, including both contemporary technologies like social media and machine translation and important earlier technical developments, like the printing press and writing. The course examines how different societies and cultures have reacted to the issues these technologies have introduced; topics covered may include access, economic costs, information spread, and privacy. Throughout, the focus is on the ways that culture, language, and technology interact.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 40,
+            "filled seats": 39,
+            "priority": "high"
+        }
+    }
+}

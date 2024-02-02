@@ -1,0 +1,32 @@
+{
+    "dept_num": "ENVS 65",
+    "title": "Introduction to Fresh Water: Processes and Policy",
+    "description": "Introduction to freshwater resources from multiple scientific and policy perspectives. After a review of basic concepts, water issues affecting cities, farms, open space, and multiple-use landscapes are studied. Students cannot receive credit for this course if they have previously received credit for course 165.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-E",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 71,
+            "filled seats": 18,
+            "priority": "very low"
+        }
+    }
+}

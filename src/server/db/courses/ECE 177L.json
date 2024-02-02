@@ -1,0 +1,36 @@
+{
+    "dept_num": "ECE 177L",
+    "title": "Power Electronics Laboratory",
+    "description": "Buck, boost, buck-boost, flyback, and forward converter design and control.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): ECE 103. Concurrent enrollment in ECE 177 is required.",
+        "courses": [
+            [
+                "ECE 103 C   ECE 177"
+            ]
+        ]
+    },
+    "class_notes": "Concurrent enrollment in ECE 177 is required. Enroll in lab and associated secondary lab.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 35,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

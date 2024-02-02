@@ -1,0 +1,40 @@
+{
+    "dept_num": "BIOE 157B",
+    "title": "Ichthyology Field Class in Southern Africa",
+    "description": "Covers the fundamentals of ichthyology (fish biology), including taxonomy and classification, morphology, physiology, zoogeography and fisheries. Field observations and field work is an integral part of the class, where demonstrations and examples are shown directly in the field. Students think, write, and report, on projects that will be elaborated and discussed with peers and faculty. The course is delivered in the field, and in person, including visiting streams and rivers to learn about local fishes and hands-on approaches to studying the science of ichthyology. Research projects are done at Malawi National Park, a site with the greatest diversity of freshwater fishes in the world. Students write daily journals with observations and reports.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): equivalent of UCSC's BIOL 20A, BIOE 20B, and BIOE 20C; satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "UCSC BIOL 20A BIOE 20B"
+            ],
+            [
+                "BIOE 20C"
+            ],
+            []
+        ]
+    },
+    "class_notes": "Global Seminar, applications are now closed. To inquire about any late application deadlines, emailgloballearning@ucsc.edu.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Field Studies",
+    "credits": "7",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 18,
+            "priority": "unavailible"
+        }
+    }
+}

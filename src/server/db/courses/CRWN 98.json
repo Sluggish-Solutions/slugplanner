@@ -1,0 +1,36 @@
+{
+    "dept_num": "CRWN 98",
+    "title": "Podcasting: Digital Storytelling",
+    "description": "Course walks students through the process of creating a podcast from concept to broadcast. Students' podcasts can be based on any research project or subject that they want. Class provides students with working knowledge of current trends in audio production and includes lessons on sound gathering using professional sound gear as well as cell phones, interviewing, script writing, audio editing and developing a ''radio voice.'' Students watch each other's progress, learning to collaborate, problem-solve and take risks together. Finally, the class also examines the media and trains students to think critically about stories they consume.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): CRWN 1 or by permission of the instructor.",
+        "courses": [
+            [
+                "CRWN 1"
+            ]
+        ]
+    },
+    "class_notes": "All students from any college or high school can enroll. Prerequisite review is waived in summer.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "2",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 30,
+            "filled seats": 14,
+            "priority": "very low"
+        }
+    }
+}

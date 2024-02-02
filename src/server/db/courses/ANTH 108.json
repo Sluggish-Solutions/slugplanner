@@ -1,0 +1,36 @@
+{
+    "dept_num": "ANTH 108",
+    "title": "Neanderthals",
+    "description": "Homo sapiens neanderthalensis (neanderthals), once considered brutish, are increasingly seen as behaviorally modern. This course uses primary academic research to explore the social behaviors, technology, anatomy, and genetics of neanderthals, gaining a holistic understanding of our closest ancestor.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): ANTH 1.",
+        "courses": [
+            [
+                "ANTH 1"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 34,
+            "priority": "low"
+        }
+    }
+}

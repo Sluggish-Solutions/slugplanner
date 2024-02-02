@@ -1,0 +1,32 @@
+{
+    "dept_num": "HAVC 143D",
+    "title": "Architecture and the City in Modern and Contemporary Visual Culture",
+    "description": "Examines the modern and contemporary depictions of cities in visual and material culture, from paintings and photographs to logotypes and souvenirs. Also examines the roles of narrative in spatial representations, including literature, film, and television productions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to juniors and seniors.",
+        "courses": []
+    },
+    "class_notes": "All students can enroll - restrictions waived in summer.",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 81,
+            "filled seats": 73,
+            "priority": "high"
+        }
+    }
+}

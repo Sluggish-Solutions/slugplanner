@@ -1,0 +1,32 @@
+{
+    "dept_num": "ARTG 132",
+    "title": "3D Character Rigging and Animation for Video Games",
+    "description": "Gives students an in-depth understanding of the techniques of 3D character rigging and animation for video games. Students understand and develop the skills necessary to be an effective technical artist and animator with a focus on industry standard methods for animating characters to be implemented into a game engine. Course provides students with video and written lectures, video demonstrations, assignments and discussion boards aimed at giving them historical understanding of game animation, the evolution of these techniques, hands-on work to become proficient, as well as the ability to communicate online with other students and the instructor to answer questions and further their knowledge. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 100,
+            "filled seats": 56,
+            "priority": "low"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "dept_num": "ENVS 100L",
+    "title": "Ecology and Society Writing Laboratory",
+    "description": "Required writing lab accompanying course 100. Students are introduced to writing in different styles and for different audiences typical of the ecosystem-society interface.  Course 100 writing assignments are developed, written, and revised in conjunction with the lab.  W credit is granted only upon successful completion of course 100.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): ENVS 23 or CHEM 1A; ENVS 24 or BIOE 20C; ENVS 25; and AM 7 and AM 7L or ECON 113 or OCEA 90; and one from: ANTH 2, SOCY 1, SOCY 10, SOCY 15, PHIL 21, PHIL 22, PHIL 24, PHIL 28, or PHIL 80G.  Satisfaction of the Entry Level Writing and Composition requirements.",
+        "courses": [
+            [
+                "ENVS 23",
+                "CHEM 1A"
+            ],
+            [
+                "ENVS 24",
+                "BIOE 20C"
+            ],
+            [
+                "ENVS 25"
+            ],
+            [
+                "AM 7"
+            ],
+            [
+                "AM 7L",
+                "ECON 113",
+                "OCEA 90"
+            ],
+            [
+                "ANTH 2 SOCY 1 SOCY 10 SOCY 15 PHIL 21 PHIL 22 PHIL 24 PHIL 28",
+                "PHIL 80G  S   E L W"
+            ],
+            [
+                "C"
+            ]
+        ]
+    },
+    "class_notes": "Must enroll in ENVS 100",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Laboratory",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 64,
+            "filled seats": 69,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 140,
+            "filled seats": 137,
+            "priority": "high"
+        }
+    }
+}

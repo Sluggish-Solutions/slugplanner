@@ -1,0 +1,32 @@
+{
+    "dept_num": "LALS 78",
+    "title": "Anti-Colonial Dancing of the Americas",
+    "description": "Exploration of the medium of dance through key themes in Latin American and Latino studies. Focusing on dancing bodies as bearers of socio-cultural knowledge, this class engages with and challenges notions of what dance is. Course content is divided into weekly modules that move thematically through topics including cultural encounter, colonial systems of oppression, and anti-colonial theorization of dance. Presenting critical perspectives on the role dance has played throughout the colonial period to the present, this course encourages different ways of considering the Americas as a sociological concept not bound by geography, but mobilized through dancing bodies.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

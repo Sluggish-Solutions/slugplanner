@@ -1,0 +1,32 @@
+{
+    "dept_num": "ART 113",
+    "title": "Illustrating Stories: Fantasy and Documentary Narratives",
+    "description": "This drawing/painting class is taught using New Yorker magazine covers as examples of illustration at a level of excellence that is accessible and which are examined for content and formal qualities. Work is done in drawing and painting media; some digital and mixed media may be incorporated. Painting will be water-based. Wit, humor, restraint, and sophistication are discussed, as well as inclusivity, exclusivity, and explicit and implicit social issues. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Class runs 9AM to 4PM with a break from 12PM-1:30PM",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 25,
+            "filled seats": 11,
+            "priority": "very low"
+        }
+    }
+}

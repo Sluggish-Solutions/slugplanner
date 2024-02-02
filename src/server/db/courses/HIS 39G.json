@@ -1,0 +1,32 @@
+{
+    "dept_num": "HIS 39G",
+    "title": "History in Action: Oral History in Practice",
+    "description": "Introduces the methodology of oral history as well as its varying applications for the public humanities. Students learn about the ethical, practical, and methodological strategies for creating an oral history project, as well as initiate at least their first interview by the end of the course.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 20,
+            "filled seats": 3,
+            "priority": "very low"
+        }
+    }
+}

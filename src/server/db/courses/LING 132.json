@@ -1,0 +1,36 @@
+{
+    "dept_num": "LING 132",
+    "title": "California Englishes",
+    "description": "Examines varieties of California Englishes and the features that compose these varieties. Through this examination, course also tries to better understand how social categories such as race, gender, sexuality, age, and class relate to the linguistic variation found in California English varieties. Course also seeks to explain how linguistic features acquire social meaning, and how these features are adopted in the construction of identity.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): LING 50, Introduction to Linguistics.",
+        "courses": [
+            [
+                "LING 50 I  L"
+            ]
+        ]
+    },
+    "class_notes": "All students - If you completed the prerequisites but get an error message email your proof of prerequisite material to the department atling@ucsc.edufor approval to enroll.",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 40,
+            "filled seats": 10,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "dept_num": "PHIL 108",
+    "title": "Phenomenology",
+    "description": "Introduction to phenomenology, either through a survey of philosophical positions grouped under phenomenology or through a study of the writings of one or more philosophers of the phenomenological tradition. Topics may include the nature of consciousness, agency, subjectivity, and intersubjectivity.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): PHIL 9; PHIL 11 or PHIL 22 or PHIL 24; PHIL 100A or PHIL 100B or PHIL 100C.",
+        "courses": [
+            [
+                "PHIL 9"
+            ],
+            [
+                "PHIL 11",
+                "PHIL 22",
+                "PHIL 24"
+            ],
+            [
+                "PHIL 100A",
+                "PHIL 100B",
+                "PHIL 100C"
+            ]
+        ]
+    },
+    "class_notes": "All Students can enroll - prerequisite review is lifted in the summer. From the Instructor: This course overviews Hannah Arendt's phenomenological approach. Through it, we'll discuss the Arendtian take on 'the political,' the arts, science, technology, and nature's exploitation. In order to do so, the course is organized around the two central themes of Arendt's thought: \"Vita Activa,\" the life of 'action and speech' and \"Vita Contemplativa,\" the life of 'thought.' Readings will be drawn from \"The Human Condition,\" \"The Life of the Mind,\" lectures, and short essays.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 30,
+            "filled seats": 9,
+            "priority": "very low"
+        }
+    }
+}

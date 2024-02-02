@@ -1,0 +1,32 @@
+{
+    "dept_num": "LING 133",
+    "title": "Language OnLine (LOL): Communication in the Digital Era",
+    "description": "In the age of social media, much of communication happens online. Despite claims to the contrary, the internet has not destroyed language; rather, language is thriving in new and vibrant ways online. This course uses the tools of linguistics to explore how the internet (with acronyms, emojis, and memes) has affected language use and how properties of language continue to shape online communication technologies. Topics covered include: whether emojis are language, what makes a spicy meme, how communities form online, and how online linguistic behaviors aid in the spread of misinformation.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-T",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 40,
+            "filled seats": 36,
+            "priority": "high"
+        }
+    }
+}

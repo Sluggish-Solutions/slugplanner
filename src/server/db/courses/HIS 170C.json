@@ -1,0 +1,32 @@
+{
+    "dept_num": "HIS 170C",
+    "title": "Mediterranean France: The History and Politics of Immigration",
+    "description": "Studies the history of France from 1914 to 1975, with a particular emphasis on how broader themes such as immigration, postwar reconstruction, European integration, and decolonization can be studied through the urban fabric of Marseille. (Formerly offered as From the Trenches to the Casbah: France and its Empire in the 20th Century.)",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Global Seminar, applications are now closed. To inquire about any late application deadlines, emailgloballearning@ucsc.edu.",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 15,
+            "priority": "unavailible"
+        }
+    }
+}

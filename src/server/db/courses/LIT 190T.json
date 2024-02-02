@@ -1,0 +1,34 @@
+{
+    "dept_num": "LIT 190T",
+    "title": "Topics in Modern Literary Studies",
+    "description": "Selected authors or issues in modern literary and cultural studies. Course topic changes; see the Class Search for current topic. Critical approach designation: Histories. Distribution requirement: Senior Seminar. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "senior literature majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): LIT 101. Enrollment is restricted to senior literature majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "Taught with LIT 190Z for winter 2024. Topic: Modern Aesthetics - Does art still matter politically? Did it ever? What are the political and social stakes of art, and how have these stakes changed since the initial framing of modern aesthetics in the eighteenth century? In this course, we will read two major theories of the aesthetic, Kant?s Critique of Judgment and Sianne Ngai?s Our Aesthetic Categories (as well as a selection of other texts), not so much to ask what is art or what is beauty than to think about of how the experiences associated with art, culture and taste mediate between individuals and the larger social forces, be they politics, the market, the division of labor, or processes of racialization and gendering. Central questions will be the relationship of art to capitalist productive and reproductive labor in their historical transformation, the role of art in public spheres of modernity and postmodernity, and the relationship between art and projects of social transformation.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 4,
+            "priority": "very low"
+        }
+    }
+}

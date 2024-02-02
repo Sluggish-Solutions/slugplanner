@@ -1,0 +1,32 @@
+{
+    "dept_num": "HIS 139J",
+    "title": "Britain Made Digital: A History of the Nation and its Empire",
+    "description": "Examines modern British history from the consolidation of the British Isles into one United Kingdom to the divisions highlighted by the Brexit vote. Course weaves between domestic Britain and its empire, demonstrating their interrelatedness and dependence and touches on a wide area of the globe and the experiences of many peoples aside from the British. Course also aims to give students a full introduction to digital public history projects. Students asked at several stages of the course to critically examine how the presentation of historical material is affected by digital content, different media types, and engagement with various audiences.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 31,
+            "filled seats": 11,
+            "priority": "very low"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "dept_num": "LIT 130D",
+    "title": "The Global Middle Ages",
+    "description": "Examination of texts from the global Middle Ages in a range of world cultures and traditions, with attention to their historical and social contexts. Course topic changes; please see the Class Search for the current topic. Satisfies the Global and Pre- and Early Modern distribution requirements. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "**** Topic: At age 17, the young Venetian merchant Marco Polo set out for the court of Qubilai Khan. Twenty-eight years later, he co-authored a work called The Description of the World (misleadingly known today as ?The Travels?). This course takes The Description as a lens through which to explore the Asian and Indian Ocean cultures in the vibrant half-century, 1250-1300. ****",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 34,
+            "priority": "low"
+        }
+    }
+}

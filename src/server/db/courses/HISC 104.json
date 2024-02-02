@@ -1,0 +1,32 @@
+{
+    "dept_num": "HISC 104",
+    "title": "Political Writing",
+    "description": "Explores the politics of writing by moving beyond rehearsals of established form into an analysis of the politics of writing, asking: What are the philosophical and political implications of the writing forms we choose?",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "From the Instructor: How do words \"speak truth to power\"? How do US activists historically make art about power? How will you make art about power? In this hybrid creative writing, art making, and theory class we take an in-depth look at the politics of creative writing. We also engage in art-making practices that develop our understanding of political art or \"artivism\" more broadly while allowing us time and space for expression, to culminate in group projects and creative writing activities that interact with the broader campus environment. Students are encouraged to come prepared to write creatively, and with a desire to engage in other expressive arts that include drawing, phone photography, and music-making/sound.",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

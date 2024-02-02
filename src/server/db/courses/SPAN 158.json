@@ -1,0 +1,36 @@
+{
+    "dept_num": "SPAN 158",
+    "title": "Spanish in the U.S.-Mexico Borderlands",
+    "description": "Provides an introduction to Spanish in the borderlands through linguistic, sociocultural, historical and critical lenses. Explores issues of language maintenance and loss, hybridity and conflict, linguistic variation and identity, as well as hegemony and resistance within the context of the borderlands.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): SPAN 6.",
+        "courses": [
+            [
+                "SPAN 6"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 25,
+            "filled seats": 26,
+            "priority": "high"
+        }
+    }
+}

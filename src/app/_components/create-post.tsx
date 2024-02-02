@@ -16,18 +16,12 @@ export function CreatePost() {
     },
   });
 
-  const add_data = api.courses.insert_all_data_lmao.useMutation({
-    onSuccess: () =>{
-      router.refresh();
-    }
-  })
 
   return (
     <form
       onSubmit={(e) => {
         e.preventDefault();
         createPost.mutate({ name });
-        add_data.mutate();
       }}
       className="flex flex-col gap-2"
     >

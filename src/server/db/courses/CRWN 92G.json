@@ -1,0 +1,36 @@
+{
+    "dept_num": "CRWN 92G",
+    "title": "Social Entrepreneurship in Costa Rica",
+    "description": "Introduction to social entrepreneurship. This is a highly interactive class that focuses on learning leadership and collaboration principles while solving community issues. Covers how to research community needs and how to build sustainable businesses using lean startup business development models. Concurrent with CRWN 94 (Eco-Entrepreneurship in Costa Rica), which provides real-world case studies of businesses representing a variety of sectors in the area of eco-entrepreneurship in Costa Rica. CRWN 94 encourages studies to apply the social entrepreneurship skills learned in CRWN 92G to create innovative solutions or to optimize the local case studies reviewed in the class.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): concurrent enrollment  in CRWN 94.",
+        "courses": [
+            [
+                "CRWN 94"
+            ]
+        ]
+    },
+    "class_notes": "Global Seminar, applications are now closed. To inquire about any late application deadlines, emailgloballearning@ucsc.edu.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 14,
+            "priority": "unavailible"
+        }
+    }
+}

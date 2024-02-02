@@ -1,0 +1,32 @@
+{
+    "dept_num": "COWL 52",
+    "title": "Personal Finance and Investing",
+    "description": "Overview of the financial responsibilities that young adults take on after college. Topics include: taxes, budgeting, student loans, credit, and investing in the stock market. Ubiquitous terms, such as 401(k), are defined, and financial principles are used to develop a framework for personal financial decision-making.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "All students from any college or high school can enroll.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 600,
+            "filled seats": 480,
+            "priority": "moderate"
+        }
+    }
+}

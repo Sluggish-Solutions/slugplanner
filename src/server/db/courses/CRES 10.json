@@ -1,0 +1,42 @@
+{
+    "dept_num": "CRES 10",
+    "title": "Critical Race and Ethnic Studies: An Introduction",
+    "description": "Examines the concept of race, followed by an investigation of colorblindness, multiculturalism, and post-racialism. Race and ethnicity are examined as historically formulated in relationship to the concepts of gender, sexuality, class, nationalism, indigeneity, citizenship, immigration, and inequality.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): Satisfaction of the Entry Level Writing requirement.",
+        "courses": [
+            [
+                "S   E L W"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "ER",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "summer"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 250,
+            "filled seats": 222,
+            "priority": "high"
+        },
+        "summer": {
+            "total_seats": 70,
+            "filled seats": 65,
+            "priority": "high"
+        }
+    }
+}

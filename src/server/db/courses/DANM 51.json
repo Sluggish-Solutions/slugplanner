@@ -1,0 +1,32 @@
+{
+    "dept_num": "DANM 51",
+    "title": "Queer and Trans Art History Since Stonewall",
+    "description": "Beginning with the Stonewall Riots in 1969, course traces the work of queer and trans artists over the five decades that followed. Students consider representations of queer life amid the Gay Liberation Movement of the 1970s, underground experimental film and New Queer Cinema, art of the AIDS crisis and the activist art collectives of ACT UP, and millennial artists working today across digital and fine arts. One of the driving questions of our explorations will be, how do these artists undo and rework concepts like identity, medium, and form?",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "The Feminist Studies department has approved this course for Upper Division Elective credits.",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 51,
+            "filled seats": 14,
+            "priority": "very low"
+        }
+    }
+}

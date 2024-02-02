@@ -1,0 +1,34 @@
+{
+    "dept_num": "KRSG 60C",
+    "title": "Prison Narratives",
+    "description": "Survey of narratives of prison experience, supporting inquiry into the role of prisons in U.S. society. Addresses themes including, but not limited to, prison abolition, re-entry, the school-to-prison pipeline, capital punishment, sentencing of minors, and political prisoners. Emphasis on voices of the imprisoned, and their advocates. Students engage in collaborative projects throughout the class, and learn effective strategies for group work and interpersonal communication.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": true,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements. Prerequisites waived for non-UCSC students.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "UCSC Students - all students from any college can enroll.Visiting Students - contactsummer@ucsc.edufor a permission number to enroll.From the Instructor: Textbook for the course: Davis, Angela Y. Are Prisons Obsolete? An Open Media Book. New York: Seven Stories Press, 2003. (ISBN: 978-1-58322-581-3)",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-E",
+    "type": "Seminar",
+    "credits": "3",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 20,
+            "filled seats": 14,
+            "priority": "low"
+        }
+    }
+}

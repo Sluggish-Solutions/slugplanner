@@ -1,0 +1,37 @@
+{
+    "dept_num": "APLX 136",
+    "title": "Second Language Assessment",
+    "description": "Introduces the fundamentals of second-language testing by presenting theories, key concepts, and practical applications in language assessment. Throughout the course, students develop their own assessment portfolios, creating materials they can use in their post-B.A. career.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): Previous or concurrent enrollment in APLX 135.",
+        "courses": [
+            [
+                "P",
+                "APLX 135"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 25,
+            "filled seats": 21,
+            "priority": "moderate"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "dept_num": "HISC 122",
+    "title": "What is the Psyche?",
+    "description": "Explores the clinical, political, and philosophical relevance of the (post) Freudian psyche. Examines how the psyche takes shape around various social forms (e.g., child, woman, queer, colonial, Black, proletarian, religious, digital), as well as how the social is shaped by psychical processes (e.g., projection, introjection, transference, splitting, repression, dissociation, identification, sublimation). Approaches the psyche from various disciplinary perspectives. Clinical and experimental research is used to illustrate a range of theoretical constructs.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "From the instructor: Explores the scientific, social, and political relevance of the (post) Freudian psyche. Examines how psychoanalysis coincides with the development of postwar cybernetics and cognitive science, as well as how psychical processes (e.g., projection, introjection, transference, splitting, repression, dissociation, identification, sublimation) relate to cybernetic concerns (e.g., information, communication, probability and prediction, artificial intelligence). Approaches theories of the psyche/mind from various disciplinary perspectives.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 35,
+            "filled seats": 28,
+            "priority": "moderate"
+        }
+    }
+}

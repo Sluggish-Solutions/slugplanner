@@ -1,0 +1,32 @@
+{
+    "dept_num": "EDUC 207",
+    "title": "Social Foundations of Education",
+    "description": "Offered in summer. A sustained inquiry into the social, political, economic, and historical foundations of schools with an emphasis on community attitudes toward education. Student narratives of engagement and resistance will provide a basis for insights and interventions useful to educators.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to MA/credential students.",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 67,
+            "filled seats": 55,
+            "priority": "moderate"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "dept_num": "PSYC 247",
+    "title": "Special Topics in Developmental Psychology",
+    "description": "Focuses on particular issues of theoretical importance in developmental psychology. Topics vary from year to year. Particular issues in language, culture, cognitive, social, and personality development may be covered. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to graduate students.",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "spring",
+        "winter"
+    ],
+    "quarterly_info": {
+        "spring": {
+            "total_seats": 12,
+            "filled seats": 10,
+            "priority": "moderate"
+        },
+        "winter": {
+            "total_seats": 12,
+            "filled seats": 12,
+            "priority": "high"
+        }
+    }
+}

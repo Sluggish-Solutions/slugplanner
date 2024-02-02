@@ -1,0 +1,32 @@
+{
+    "dept_num": "MUSC 73",
+    "title": "Music and the Ocean",
+    "description": "Studio course designed to explore relationships between music, sound, and the ocean. Students learn from a broad selection of music from oceanic and western cultures, deep listening techniques, and scientific research on underwater sound and apply it to their own music making. Students also explore connections between electronic music making and environmental sound research, including an introduction to listening techniques, recording, editing and analysis, composition and installation. Open to performers, composers, and theorists, as well as those from other disciplines, who want to expand their knowledge and practice in an experimental environment. Course ends with an online performance/presentation of new student work.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "3",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 21,
+            "filled seats": 16,
+            "priority": "moderate"
+        }
+    }
+}

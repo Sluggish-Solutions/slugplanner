@@ -1,0 +1,32 @@
+{
+    "dept_num": "LIT 149A",
+    "title": "Behind the Berlin Wall",
+    "description": "Examines cultural life in the German Democratic Republic between 1946 and 1992 through films from the state-owned DEFA film studios. Topics include: socialist realism and international modernism in cinema; the representation of collective labor; the status of women; youth culture; and the texture of everyday life and consumer culture in socialism. Critical approach designations: Histories, Media.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "TOPIC: Cinema in the German Democratic Republic, or East Germany, between 1946 and 1992. The course will address the interactions of socialist realism and elements of international modernism in cinema, as well as the problems of building an antifascist public sphere, the representation of collective labor, the status of women, youth culture, and the texture of everyday life and consumer culture in socialism. Students will gain a sense of broad cultural discourses in the GDR as well as the critical discourses surrounding East German cultural production and reception, including the contemporary reception of DEFA film.",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 50,
+            "filled seats": 36,
+            "priority": "low"
+        }
+    }
+}

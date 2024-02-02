@@ -1,0 +1,36 @@
+{
+    "dept_num": "CRWN 80F",
+    "title": "Science Fictions",
+    "description": "Examines how science fictions have imagined better and worse worlds, social relations, and identities by using science and technology. Students read novels and short stories from the 19th Century to the present and discuss and debate questions of justice, freedom, difference, and identity.  (Formerly \"Seminar in Science Fiction.\")",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing requirement.",
+        "courses": [
+            [
+                "E L W"
+            ]
+        ]
+    },
+    "class_notes": "Visiting Students - prerequisite review is waived in summer - emailsummer@ucsc.edufor a permission number to enroll. No matter what type of science fiction and fantasy appeals to you, please join us and bring your passions! The red pill or the blue pill? We are going to read wonderful stories, watch some of the greatest films ever made, and, if you like, part of your work for the class can be creating a sci-fi story or film yourself.",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 30,
+            "filled seats": 19,
+            "priority": "low"
+        }
+    }
+}

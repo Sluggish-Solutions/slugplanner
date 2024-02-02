@@ -1,0 +1,42 @@
+{
+    "dept_num": "EART 140L",
+    "title": "Geomorphology Laboratory",
+    "description": "Laboratory sequence illustrating topics covered in course 140. These extensive laboratory exercises emphasize the quantification of the geomorphic processes and forms, and on the writing of concise summaries of the science in the form of abstracts.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): satisfaction of the Entry Level Writing and Composition requirements and EART 110A.",
+        "courses": [
+            [
+                "E L W"
+            ],
+            [
+                "C"
+            ],
+            [
+                "EART 110A"
+            ]
+        ]
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Laboratory",
+    "credits": "2",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 30,
+            "filled seats": 27,
+            "priority": "high"
+        }
+    }
+}

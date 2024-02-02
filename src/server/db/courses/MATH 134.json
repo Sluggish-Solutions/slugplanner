@@ -1,0 +1,40 @@
+{
+    "dept_num": "MATH 134",
+    "title": "Cryptography",
+    "description": "Introduces different methods in cryptography (shift cipher, affine cipher, Vigenere cipher, Hill cipher, RSA cipher, ElGamal cipher, knapsack cipher). The necessary material from number theory and probability theory is developed in the course. Common methods to attack ciphers discussed.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): course 100 or CSE 101; course 110 recommended as preparation. Prerequisites waived for non-UCSC students",
+        "courses": [
+            [
+                "100",
+                "CSE 101"
+            ],
+            [
+                "110    P   UCSC"
+            ]
+        ]
+    },
+    "class_notes": "UCSC Students - if you completed the prerequisites but get an error message, email your proof of prerequisite material to the department atmathadvising@ucsc.edufor approval to enroll.Newly Admitted UCSC Students - See next steps at https://summer.ucsc.edu/summer-edge/summer-math.htmlIf you need to take the prerequisite in Session 1, enroll in that course first, then emailsummer@ucsc.edufor a permission number to enroll in this course.Visiting Students - prerequisite review is waived in summer. It is in your best interest to take equivalent prerequisite courses.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 30,
+            "filled seats": 27,
+            "priority": "high"
+        }
+    }
+}

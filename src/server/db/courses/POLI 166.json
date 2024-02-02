@@ -1,0 +1,32 @@
+{
+    "dept_num": "POLI 166",
+    "title": "Politics of Migration",
+    "description": "Examines the magnitude and the political, economic, cultural, environmental, and social impact of today's movement of millions of people within and amongst states.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to politics majors and Latin American and Latino studies/politics combined majors during first and second pass enrollment.",
+        "courses": []
+    },
+    "class_notes": "Global Seminar, applications are now closed. To inquire about any late application deadlines, emailgloballearning@ucsc.edu.",
+    "career": "Undergraduate",
+    "gen_ed_code": "CC",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 15,
+            "priority": "unavailible"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "dept_num": "CHEM 8A",
+    "title": "Organic Chemistry",
+    "description": "Introduces organic chemistry, with an emphasis on bonding and reactivity of organic compounds.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): CHEM 3C, or CHEM 4B, or CHEM 1C and either CHEM 1B, CHEM 3A, or CHEM 4A",
+        "courses": [
+            [
+                "CHEM 3C",
+                "CHEM 4B",
+                "CHEM 1C"
+            ],
+            [
+                "CHEM 1B CHEM 3A",
+                "CHEM 4A"
+            ]
+        ]
+    },
+    "class_notes": "Enroll in lecture and associated discussion section",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "fall",
+        "summer",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 472,
+            "filled seats": 388,
+            "priority": "moderate"
+        },
+        "summer": {
+            "total_seats": 180,
+            "filled seats": 55,
+            "priority": "very low"
+        },
+        "winter": {
+            "total_seats": 268,
+            "filled seats": 268,
+            "priority": "high"
+        }
+    }
+}

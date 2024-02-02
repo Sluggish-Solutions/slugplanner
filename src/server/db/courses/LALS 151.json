@@ -1,0 +1,32 @@
+{
+    "dept_num": "LALS 151",
+    "title": "Race & Mobility",
+    "description": "Focuses on the intersection between mobility and race, examining both how mobility is racially informed and how differential mobilities inform the construction of racial identities, the production of racial processes, and the representation of racialized spaces. Examining different facets of mobility?movement, meaning, and practice?course topics include: the mutual constitution between mobility and racial identities (blackness, whiteness, Latinidad, and indigeneity); white control over the mobility of ''others;'' bodily movements (dancing, walking) as sites of resistance and policing; prototypical whiteness and the surveillance of non-white mobile bodies border crossing; and the intersections between racial mobility politics and gender and class dynamics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "TA",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 90,
+            "filled seats": 82,
+            "priority": "high"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "dept_num": "LIT 166J",
+    "title": "Women Modernists",
+    "description": "Readings of a selection of British and U.S. women writers writing from 1920-1940, now critically framed and unearthed by feminist scholarship of the 1980s. Readings include: Jessie Redmon's The Chinaberry Tree, Vita Sackville-West's All Passion Spent, H.D.'s Asphodel, and Djuna Barnes' Nightwood. Also includes a selection of almost totally eclipsed female poets?reading selections of the poetry and prose of women writers including Dorothy Parker, Sarah Teasdale, Edna St. Vincent Millay, Marianne Moore, Louise Bogan, and Elinor Wylie. Discussion includes the varieties of modernism, canonicity, female literary collaboration and lesbian salons, and women writers' various negotiations of gender, race, and class intersectionality.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

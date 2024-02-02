@@ -1,0 +1,32 @@
+{
+    "dept_num": "ART 135",
+    "title": "Digital Painting",
+    "description": "Gives students a comprehensive understanding of the digital painting, from basic techniques, to new media art and industry application, to how these programs operate. Studies and assignments develop and expand skills of digital paint application. Students build a cumulative digital portfolio of all of the studies and assignments completed throughout the course.\n May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 200,
+            "filled seats": 181,
+            "priority": "high"
+        }
+    }
+}

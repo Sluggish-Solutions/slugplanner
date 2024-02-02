@@ -1,0 +1,32 @@
+{
+    "dept_num": "DANM 50",
+    "title": "Gayming: An Introduction to Queer Theory in Games",
+    "description": "Students learn the basics of queer theory and how to apply it to game design and play. They engage with a number of queer games both physical and digital as well as learn how to apply queer theory to their own design and style of play.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "IM",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 0,
+            "filled seats": 0,
+            "priority": "unavailible"
+        }
+    }
+}

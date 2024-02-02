@@ -1,0 +1,32 @@
+{
+    "dept_num": "ECON 20",
+    "title": "Economics for Non-Majors",
+    "description": "Designed for non-majors seeking a basic introduction to core economic concepts relevant for social and public policy decision making. Fundamental economic concepts illustrated through their application to a variety of public policy questions.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "From the instructor: One meeting over Zoom will be required per week (5 total/real-time meetings). Students will have the option of attending with the instructor or the TA, and will have several to choose from each week. Students will be surveyed to identify best times for the meeting that also meet with the instructor's and TA's schedules.",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 31,
+            "filled seats": 27,
+            "priority": "high"
+        }
+    }
+}

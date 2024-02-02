@@ -1,0 +1,32 @@
+{
+    "dept_num": "STEV 27",
+    "title": "Service Learning",
+    "description": "This online course frames and supports the service-learning experiences of students engaged in field placements both here in Santa Cruz and in their home communities. Students approach social challenges thematically (e.g., homelessness, environmentalism, domestic violence, etc.) and consider how different disciplines might engage these issues. They consider how our community partners conceptualize and address social issues and how these conceptions connect, or fail to connect, with academic approaches,",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-S",
+    "type": "Field Studies",
+    "credits": "2",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 60,
+            "filled seats": 44,
+            "priority": "low"
+        }
+    }
+}

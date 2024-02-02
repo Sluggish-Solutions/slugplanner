@@ -1,0 +1,32 @@
+{
+    "dept_num": "METX 281A",
+    "title": "Topics in Environmental Toxicology",
+    "description": "Selected topics in environmental toxicology. Topics vary from year to year. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to graduate students; qualified upper-division science majors may enroll with instructor's permission.",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 15,
+            "filled seats": 1,
+            "priority": "very low"
+        }
+    }
+}

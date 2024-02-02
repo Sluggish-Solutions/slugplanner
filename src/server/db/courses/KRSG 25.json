@@ -1,0 +1,44 @@
+{
+    "dept_num": "KRSG 25",
+    "title": "Successful Transfer to the Research University",
+    "description": "Provides community college transfers, during their first year at UC Santa Cruz, with an understanding of the workings of a research university with emphasis on advanced academic expectations, creating and meeting purposeful education and career goals, building relationships and community, and navigating opportunities and challenges.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to transfer students.",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Seminar",
+    "credits": "2",
+    "quarters_offered": [
+        "fall",
+        "summer",
+        "winter"
+    ],
+    "quarterly_info": {
+        "fall": {
+            "total_seats": 120,
+            "filled seats": 94,
+            "priority": "moderate"
+        },
+        "summer": {
+            "total_seats": 198,
+            "filled seats": 130,
+            "priority": "low"
+        },
+        "winter": {
+            "total_seats": 48,
+            "filled seats": 36,
+            "priority": "low"
+        }
+    }
+}

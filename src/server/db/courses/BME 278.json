@@ -1,0 +1,48 @@
+{
+    "dept_num": "BME 278",
+    "title": "Stem Cell Biology",
+    "description": "Basic stem cell concepts, experimental approaches, and therapeutic potential are discussed. Students gain experience in reading and critically evaluating the primary scientific literature. Students cannot receive credit for this course and BME 178.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Enrollment is restricted to graduate students in PBSE program (Program in Biomedical Science and Engineering:  Biomolecular Engineering and Bioinformatics (BMEB), Microbial Biology and Pathogenesis (MICRO), Chemical Biology, Biochemistry and Biophysics (CB3), Molecular, Cell and Developmental Biology (MCDB)) or consent of instructor.",
+        "courses": [
+            [
+                "B E"
+            ],
+            [
+                "B BMEB M B"
+            ],
+            [
+                "P MICRO C B B"
+            ],
+            [
+                "B CB3 M C"
+            ],
+            [
+                "D B MCDB"
+            ]
+        ]
+    },
+    "class_notes": "Taught in conjunction with BME 178.",
+    "career": "Graduate",
+    "gen_ed_code": "NULL",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 60,
+            "filled seats": 22,
+            "priority": "very low"
+        }
+    }
+}

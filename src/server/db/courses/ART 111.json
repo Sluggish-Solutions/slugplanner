@@ -1,0 +1,34 @@
+{
+    "dept_num": "ART 111",
+    "title": "Figure Drawing",
+    "description": "Focuses on drawing from the human figure and exploring the figure for the purpose of personal expression and social communication. Intended for the intermediate/advanced drawing student. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "art majors.",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "Prerequisite(s): One course from ART 15, ART 20G, ART 20J, ART 20L, ART 110, ART 112, ART 119; and two from ART 20H, ART 20I, ART 20K, ART 26; or by permission of instructor. Enrollment is restricted to art majors.",
+        "courses": [
+            []
+        ]
+    },
+    "class_notes": "All Students can enroll - the review of prerequisites and restrictions is waived in summer. Lunch Break 12-1:30.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 30,
+            "filled seats": 15,
+            "priority": "very low"
+        }
+    }
+}

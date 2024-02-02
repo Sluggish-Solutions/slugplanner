@@ -1,0 +1,38 @@
+{
+    "dept_num": "MUSC 58",
+    "title": "Songwriting Craft and Practice",
+    "description": "Explores the craft of songwriting through listening, analysis, performance, and songwriting assignments. Students are exposed to a variety of writing styles from diverse musical backgrounds such as pop, rock, folk, jazz, avant-garde, classical, and world music. Students gain the ability to analyze a song's form, its textual rhythmic scheme, mood, and performative aspects. Students also compose, record, and perform song samples demonstrating their understanding and creative approach to the concepts discussed in class. May be repeated for credit.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PR-C",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer",
+        "winter"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 55,
+            "filled seats": 47,
+            "priority": "high"
+        },
+        "winter": {
+            "total_seats": 45,
+            "filled seats": 44,
+            "priority": "high"
+        }
+    }
+}

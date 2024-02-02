@@ -1,0 +1,32 @@
+{
+    "dept_num": "FILM 179A",
+    "title": "Special Topics in Animation",
+    "description": "Provides opportunities to learn technical skills in animation while engaging in critical analysis of animation and design. Students are encouraged to pursue their personal artistic vision as well as to develop a collaborative and problem-solving mindset. Prerequisite(s): FILM 170A or FILM 170B.  Admission by application; application materials available during the last three weeks of the preceding quarter.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "Enrollment is by application and instructor permission only. Applications will be reviewed after the posted deadline has passed and students will be contacted directly if they are accepted into the course. Applications and instructions can be found at this link: https://docs.google.com/document/d/1NgQf-2VAAMH3IsCWHYjvBG1oB602mD2Qe6V5ki8yors/edit?usp=sharingCourse Topic: Stop-Motion and Mixed Media 2D AnimationEnrollment is also possible via permission from the instructor.",
+    "career": "Undergraduate",
+    "gen_ed_code": "NULL",
+    "type": "Studio",
+    "credits": "5",
+    "quarters_offered": [
+        "winter"
+    ],
+    "quarterly_info": {
+        "winter": {
+            "total_seats": 20,
+            "filled seats": 11,
+            "priority": "low"
+        }
+    }
+}

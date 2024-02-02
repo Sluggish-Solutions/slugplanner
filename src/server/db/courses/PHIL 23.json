@@ -1,0 +1,32 @@
+{
+    "dept_num": "PHIL 23",
+    "title": "Philosophy of Cognitive Science",
+    "description": "Explores the philosophical issues that arise in cognitive science, particularly issues concerning the nature of minds. Students consider the idea that the mind is a digital computer,  then analyze alternatives, such as connectionism and dynamics.",
+    "pre_req_data": {
+        "conditions": {
+            "restricted_to_majors": "",
+            "erlw": false,
+            "lower_credits_limit": 0,
+            "upper_credits_limit": 500,
+            "College 1": "",
+            "Concurrent": ""
+        },
+        "text": "NULL",
+        "courses": []
+    },
+    "class_notes": "NULL",
+    "career": "Undergraduate",
+    "gen_ed_code": "PE-H",
+    "type": "Lecture",
+    "credits": "5",
+    "quarters_offered": [
+        "summer"
+    ],
+    "quarterly_info": {
+        "summer": {
+            "total_seats": 150,
+            "filled seats": 94,
+            "priority": "low"
+        }
+    }
+}
